@@ -1,0 +1,68 @@
+129.159.84.71:443Ashburn-North America
+15.157.7.168:443Montréal-North America
+141.147.47.32:8443Frankfurt-Europe
+166.0.188.128:13657Los Angeles-North America
+192.9.137.193:8443San Jose-North America
+44.227.22.10:443Portland-North America
+158.179.207.182:8443Stockholm-Europe
+50.112.166.63:443Portland-North America
+40.233.70.7:8443Toronto-North America
+146.235.59.153:2053São Paulo-South America
+217.142.243.226:443Osaka-Asia Pacific
+216.38.168.34:16384Los Angeles-North America
+35.167.93.200:443Portland-North America
+141.145.205.115:8443Paris-Europe
+132.145.54.84:8443London-Europe
+129.151.198.3:2053Stockholm-Europe
+129.154.46.115:443Hyderabad-Asia Pacific
+149.129.8.215:443San Jose-North America
+152.70.123.225:8443San Jose-North America
+168.138.46.67:443Osaka-Asia Pacific
+13.233.5.49:443Mumbai-Asia Pacific
+3.98.73.243:443Montréal-North America
+82.153.65.154:24620Tokyo-Asia Pacific
+204.110.221.231:80Montréal-North America
+89.168.43.31:2053Paris-Europe
+143.47.229.102:443Frankfurt-Europe
+204.110.220.249:80San Jose-North America
+150.230.20.156:2053Amsterdam-Europe
+89.168.83.143:8443Frankfurt-Europe
+3.99.106.179:443Montréal-North America
+3.112.21.102:443Tokyo-Asia Pacific
+158.101.199.249:8443Amsterdam-Europe
+64.181.240.173:443San Jose-North America
+89.168.68.57:2053Frankfurt-Europe
+146.235.59.153:8443São Paulo-South America
+150.230.20.156:8443Amsterdam-Europe
+168.138.184.172:443Singapore-Asia Pacific
+84.235.169.234:443Amsterdam-Europe
+18.135.67.188:443London-Europe
+129.151.198.3:8443Stockholm-Europe
+193.123.81.105:443Paris-Europe
+47.89.244.253:443San Jose-North America
+204.110.221.115:80Montréal-North America
+155.248.196.123:443Vancouver-North America
+132.226.163.224:8443São Paulo-South America
+141.148.229.106:443Amsterdam-Europe
+130.61.23.77:443Frankfurt-Europe
+144.22.252.124:443São Paulo-South America
+129.146.46.164:443Los Angeles-North America
+158.179.207.182:2053Stockholm-Europe
+18.135.188.86:443London-Europe
+158.178.153.80:2096Amsterdam-Europe
+129.151.148.35:443Hong Kong-Asia Pacific
+204.110.220.59:80San Jose-North America
+3.7.108.69:443Mumbai-Asia Pacific
+64.110.104.30:443Osaka-Asia Pacific
+168.138.141.235:2053São Paulo-South America
+192.18.159.129:443Toronto-North America
+204.110.223.167:80Ashburn-North America
+47.76.218.163:443Hong Kong-Asia Pacific
+129.213.136.180:443Ashburn-North America
+47.236.181.185:8443Singapore-Asia Pacific
+129.159.241.172:443Frankfurt-Europe
+91.217.139.121:8443Los Angeles-North America
+18.189.94.250:443Ashburn-North America
+140.238.158.238:8080Toronto-North America
+13.229.159.215:443Singapore-Asia Pacific
+44.226.147.29:443Portland-North America
