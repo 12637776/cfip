@@ -1,411 +1,55 @@
-13.53.47.110:2053Taipei-92-Asia Pacific
-47.236.104.11:2083Kaohsiung City-382-Asia Pacific
-47.76.77.103:2096Taipei-337-Asia Pacific
-141.144.206.159:443Kaohsiung City-191-Asia Pacific
-34.141.221.33:2053Kaohsiung City-258-Asia Pacific
-47.237.81.112:2083Taipei-330-Asia Pacific
-47.236.75.113:2053Taipei-351-Asia Pacific
-47.236.254.120:2053Kaohsiung City-391-Asia Pacific
-13.211.0.227:2096Taipei-49-Asia Pacific
-47.237.95.146:2087Kaohsiung City-361-Asia Pacific
-158.179.206.143:443Stockholm-241-Europe
-3.97.1.47:2053Kaohsiung City-13-Asia Pacific
-47.236.10.182:8443Taipei-406-Asia Pacific
-47.76.227.40:2053Taipei-301-Asia Pacific
-54.252.91.41:2087Taipei-99-Asia Pacific
-152.70.123.225:8443Taipei-192-Asia Pacific
-129.146.139.227:443Taipei-211-Asia Pacific
-13.40.128.14:8443London-132-Europe
-44.242.230.224:443Taipei-30-Asia Pacific
-47.236.125.62:2096Taipei-381-Asia Pacific
-18.189.139.61:443Taipei-113-Asia Pacific
-47.76.227.128:2083Kaohsiung City-347-Asia Pacific
-44.226.147.29:443Portland-119-North America
-176.116.21.157:2053Taipei-87-Asia Pacific
-47.76.80.72:2096Taipei-295-Asia Pacific
-47.57.245.232:443San Jose-411-North America
-176.116.21.100:2053Kaohsiung City-52-Asia Pacific
-43.204.115.165:443Taipei-53-Asia Pacific
-3.99.106.179:443Montréal-118-North America
-47.236.102.102:2096Kaohsiung City-369-Asia Pacific
-47.236.9.152:2083Kaohsiung City-319-Asia Pacific
-176.116.21.103:2083Kaohsiung City-45-Asia Pacific
-54.252.91.41:2096Taipei-62-Asia Pacific
-141.147.85.167:8443London-234-Europe
-47.237.95.146:2083Kaohsiung City-387-Asia Pacific
-47.236.171.205:2083Taipei-397-Asia Pacific
-150.230.20.156:8443Taipei-166-Asia Pacific
-52.76.182.63:2096Taipei-14-Asia Pacific
-193.123.233.143:2083Taipei-180-Asia Pacific
-47.236.10.100:2087Taipei-322-Asia Pacific
-47.236.172.95:2053Taipei-327-Asia Pacific
-47.238.245.170:443Kaohsiung City-359-Asia Pacific
-54.253.222.7:2087Kaohsiung City-12-Asia Pacific
-176.116.21.142:2053Taipei-43-Asia Pacific
-141.145.205.115:8443Taipei-151-Asia Pacific
-35.179.75.202:2053Taipei-41-Asia Pacific
-129.146.46.164:443Los Angeles-236-North America
-152.67.65.201:443Kaohsiung City-218-Asia Pacific
-35.167.225.145:2053Kaohsiung City-94-Asia Pacific
-176.116.21.141:2096Taipei-1-Asia Pacific
-149.129.8.215:443Kaohsiung City-324-Asia Pacific
-103.99.179.39:443Taipei-275-Asia Pacific
-176.116.21.14:2087Taipei-46-Asia Pacific
-129.151.198.3:8443Stockholm-250-Europe
-47.236.10.182:2096Taipei-367-Asia Pacific
-34.210.73.42:2087Taipei-11-Asia Pacific
-47.236.180.51:2053Taipei-283-Asia Pacific
-44.227.22.10:443Portland-125-North America
-89.168.77.232:443Kaohsiung City-189-Asia Pacific
-34.141.248.249:2096Taipei-254-Asia Pacific
-47.245.33.33:443Taipei-291-Asia Pacific
-47.236.10.182:2087Taipei-385-Asia Pacific
-129.146.168.102:443Taipei-227-Asia Pacific
-150.230.124.255:443Kaohsiung City-157-Asia Pacific
-15.157.7.168:443Montréal-126-North America
-47.245.84.124:2083Kaohsiung City-299-Asia Pacific
-176.116.21.146:2096Kaohsiung City-40-Asia Pacific
-47.236.144.208:2096Taipei-285-Asia Pacific
-129.151.198.3:8443Taipei-225-Asia Pacific
-152.70.112.158:443Taipei-154-Asia Pacific
-50.112.166.63:443Portland-129-North America
-47.76.178.146:2083Taipei-371-Asia Pacific
-132.145.15.204:443Kaohsiung City-201-Asia Pacific
-141.147.161.250:443Kaohsiung City-148-Asia Pacific
-47.236.164.215:2083Kaohsiung City-356-Asia Pacific
-193.123.252.170:2083Taipei-155-Asia Pacific
-146.235.59.153:2053São Paulo-245-South America
-176.116.21.102:2087Taipei-95-Asia Pacific
-54.251.118.130:2096Taipei-108-Asia Pacific
-150.230.20.156:2053Amsterdam-233-Europe
-3.99.106.179:443Taipei-17-Asia Pacific
-47.236.93.176:8443Taipei-360-Asia Pacific
-129.146.242.24:2053Taipei-136-Asia Pacific
-47.236.10.182:2053Taipei-378-Asia Pacific
-89.168.98.34:443Taipei-133-Asia Pacific
-176.116.21.157:2087Taipei-89-Asia Pacific
-52.65.99.165:2053Taipei-9-Asia Pacific
-13.53.47.110:2087Taipei-90-Asia Pacific
-47.90.201.189:443Taipei-313-Asia Pacific
-47.236.167.231:2053Taipei-398-Asia Pacific
-13.36.24.111:2096Kaohsiung City-47-Asia Pacific
-141.147.103.53:443Kaohsiung City-188-Asia Pacific
-176.116.21.100:2083Kaohsiung City-81-Asia Pacific
-13.201.221.231:443Taipei-76-Asia Pacific
-141.147.87.10:443Taipei-158-Asia Pacific
-16.63.251.69:2083Taipei-10-Asia Pacific
-52.39.201.69:443Taipei-54-Asia Pacific
-34.218.233.177:2087Kaohsiung City-86-Asia Pacific
-47.238.6.102:2096Taipei-364-Asia Pacific
-129.151.148.35:443Kaohsiung City-198-Asia Pacific
-47.76.159.146:2096Taipei-355-Asia Pacific
-47.236.144.208:8443Taipei-278-Asia Pacific
-176.116.21.85:2083Kaohsiung City-38-Asia Pacific
-152.70.119.237:443Taipei-147-Asia Pacific
-8.209.79.120:443Kaohsiung City-320-Asia Pacific
-141.147.190.128:443Taipei-160-Asia Pacific
-8.209.82.201:443Kaohsiung City-400-Asia Pacific
-34.175.244.157:2096Taipei-262-Asia Pacific
-13.55.237.163:2053Taipei-69-Asia Pacific
-47.76.227.128:2053Kaohsiung City-293-Asia Pacific
-34.175.168.99:2087Taipei-271-Asia Pacific
-176.116.21.80:2083Kaohsiung City-8-Asia Pacific
-47.236.9.152:2096Kaohsiung City-336-Asia Pacific
-47.236.17.193:2087Taipei-395-Asia Pacific
-54.254.190.97:2053Taipei-104-Asia Pacific
-13.36.253.240:2096Taipei-74-Asia Pacific
-152.69.228.83:443Taipei-139-Asia Pacific
-141.147.178.154:443Taipei-164-Asia Pacific
-47.237.95.146:8443Kaohsiung City-358-Asia Pacific
-152.67.249.123:443Kaohsiung City-197-Asia Pacific
-47.76.80.72:2053Taipei-305-Asia Pacific
-150.230.7.216:443Kaohsiung City-186-Asia Pacific
-35.179.75.202:2087Taipei-93-Asia Pacific
-35.179.75.202:2083Taipei-65-Asia Pacific
-52.62.216.87:2096Kaohsiung City-112-Asia Pacific
-141.147.79.135:443Taipei-159-Asia Pacific
-47.76.178.146:2087Taipei-377-Asia Pacific
-192.9.137.193:8443San Jose-231-North America
-47.236.158.158:2087Taipei-386-Asia Pacific
-176.116.21.103:2096Kaohsiung City-110-Asia Pacific
-150.230.22.39:443Taipei-182-Asia Pacific
-149.129.8.215:443San Jose-410-North America
-204.110.223.199:80Columbus-122-North America
-150.230.221.148:443Taipei-195-Asia Pacific
-129.213.136.180:443Ashburn-230-North America
-13.125.218.78:443Taipei-3-Asia Pacific
-47.245.102.52:8443Kaohsiung City-346-Asia Pacific
-176.116.21.89:2053Taipei-36-Asia Pacific
-47.236.171.205:2096Taipei-300-Asia Pacific
-54.66.80.167:2083Kaohsiung City-25-Asia Pacific
-150.230.112.32:443Kaohsiung City-196-Asia Pacific
-47.236.145.85:2087Taipei-304-Asia Pacific
-47.76.204.76:2087Taipei-370-Asia Pacific
-132.145.54.84:2053Kaohsiung City-199-Asia Pacific
-47.76.204.76:2096Taipei-321-Asia Pacific
-34.175.161.245:2087Kaohsiung City-255-Asia Pacific
-47.236.104.11:2087Kaohsiung City-303-Asia Pacific
-47.238.235.163:443Taipei-284-Asia Pacific
-47.236.145.85:2053Taipei-308-Asia Pacific
-141.147.84.181:443Taipei-185-Asia Pacific
-158.178.206.197:8443Paris-247-Europe
-176.116.21.102:2083Taipei-16-Asia Pacific
-47.236.237.90:2087Kaohsiung City-383-Asia Pacific
-34.141.221.33:2087Kaohsiung City-264-Asia Pacific
-89.168.83.143:8443Frankfurt-228-Europe
-176.116.21.100:2087Kaohsiung City-63-Asia Pacific
-52.76.182.63:2053Taipei-114-Asia Pacific
-129.146.220.190:443Taipei-135-Asia Pacific
-47.236.144.48:8443Taipei-402-Asia Pacific
-141.147.116.91:443Kaohsiung City-187-Asia Pacific
-130.61.107.238:8443Frankfurt-240-Europe
-34.175.7.231:2053Kaohsiung City-263-Asia Pacific
-34.175.161.245:2096Kaohsiung City-267-Asia Pacific
-47.236.75.113:2096Taipei-339-Asia Pacific
-204.110.221.176:80Montréal-128-North America
-129.146.254.39:443Taipei-209-Asia Pacific
-13.211.0.227:2053Taipei-100-Asia Pacific
-35.179.75.202:443Taipei-75-Asia Pacific
-193.122.1.0:2053Taipei-205-Asia Pacific
-47.236.232.148:8443Taipei-407-Asia Pacific
-13.246.85.121:2096Taipei-28-Asia Pacific
-3.7.108.69:443Mumbai-131-Asia Pacific
-47.76.77.103:2087Taipei-328-Asia Pacific
-47.236.125.62:8443Taipei-375-Asia Pacific
-47.236.10.100:2053Taipei-340-Asia Pacific
-16.63.55.49:2096Taipei-6-Asia Pacific
-132.145.127.203:2053Kaohsiung City-223-Asia Pacific
-18.189.94.250:443Taipei-19-Asia Pacific
-152.67.44.30:443Taipei-150-Asia Pacific
-47.236.168.17:2087Taipei-357-Asia Pacific
-176.116.21.153:2087Taipei-80-Asia Pacific
-13.215.80.221:2096Taipei-78-Asia Pacific
-13.211.0.227:2087Taipei-79-Asia Pacific
-140.238.158.238:8080Toronto-248-North America
-47.76.80.72:2083Taipei-286-Asia Pacific
-132.145.127.203:8443Tokyo-249-Asia Pacific
-47.76.77.103:8443Taipei-399-Asia Pacific
-129.146.46.164:443Kaohsiung City-178-Asia Pacific
-176.116.21.152:2053Taipei-115-Asia Pacific
-13.55.237.163:2087Taipei-98-Asia Pacific
-47.236.144.196:2083Taipei-373-Asia Pacific
-47.245.102.52:2087Kaohsiung City-342-Asia Pacific
-192.9.138.241:443Taipei-169-Asia Pacific
-47.236.171.205:8443Taipei-298-Asia Pacific
-132.145.127.203:8443Kaohsiung City-146-Asia Pacific
-47.237.81.112:2087Taipei-388-Asia Pacific
-141.144.229.61:443Kaohsiung City-215-Asia Pacific
-89.168.68.57:2053Frankfurt-232-Europe
-13.51.138.200:2096Taipei-83-Asia Pacific
-47.236.17.193:2083Taipei-396-Asia Pacific
-18.202.149.25:2096Kaohsiung City-37-Asia Pacific
-47.238.6.102:8443Taipei-279-Asia Pacific
-47.245.84.124:2053Kaohsiung City-344-Asia Pacific
-47.76.227.40:8443Taipei-345-Asia Pacific
-192.18.141.27:443Kaohsiung City-177-Asia Pacific
-176.116.21.77:2083Taipei-61-Asia Pacific
-47.236.102.102:2083Kaohsiung City-312-Asia Pacific
-52.62.216.87:2087Kaohsiung City-32-Asia Pacific
-129.146.137.89:2096Kaohsiung City-190-Asia Pacific
-47.236.144.196:8443Taipei-333-Asia Pacific
-34.141.248.249:2083Taipei-272-Asia Pacific
-44.227.22.10:443Taipei-107-Asia Pacific
-141.147.117.198:443Taipei-212-Asia Pacific
-47.236.102.102:2053Kaohsiung City-307-Asia Pacific
-158.178.206.197:2053Paris-252-Europe
-141.147.66.135:443Kaohsiung City-175-Asia Pacific
-47.236.164.215:2053Kaohsiung City-349-Asia Pacific
-13.36.24.111:2083Kaohsiung City-48-Asia Pacific
-47.76.213.245:2053Taipei-362-Asia Pacific
-192.9.137.193:8443Taipei-213-Asia Pacific
-141.147.89.115:443Taipei-176-Asia Pacific
-176.116.21.100:2096Kaohsiung City-64-Asia Pacific
-146.56.146.67:443Taipei-220-Asia Pacific
-150.230.7.216:443Osaka-251-Asia Pacific
-47.245.105.224:2053Taipei-280-Asia Pacific
-176.116.21.147:2096Taipei-77-Asia Pacific
-34.175.95.58:2096Taipei-266-Asia Pacific
-47.76.32.108:2083Taipei-310-Asia Pacific
-3.97.1.47:2096Kaohsiung City-24-Asia Pacific
-47.238.35.50:2096Kaohsiung City-366-Asia Pacific
-43.204.115.165:2083Taipei-58-Asia Pacific
-47.76.159.146:8443Taipei-368-Asia Pacific
-150.230.42.80:443Taipei-149-Asia Pacific
-89.168.68.57:8443Frankfurt-237-Europe
-47.236.17.193:8443Taipei-317-Asia Pacific
-8.211.15.43:443Taipei-289-Asia Pacific
-34.141.248.249:2053Taipei-259-Asia Pacific
-129.153.119.97:443Kaohsiung City-165-Asia Pacific
-141.147.65.53:443Taipei-207-Asia Pacific
-47.236.174.206:8443Taipei-325-Asia Pacific
-168.138.141.235:2053São Paulo-244-South America
-193.122.2.248:443Kaohsiung City-145-Asia Pacific
-176.116.21.81:2096Taipei-72-Asia Pacific
-141.147.77.7:443Kaohsiung City-184-Asia Pacific
-8.211.38.214:443Taipei-314-Asia Pacific
-129.146.134.77:443Kaohsiung City-181-Asia Pacific
-47.237.82.15:2096Taipei-392-Asia Pacific
-18.202.149.25:2087Kaohsiung City-59-Asia Pacific
-47.238.6.58:8443Kaohsiung City-389-Asia Pacific
-47.237.81.112:2096Taipei-334-Asia Pacific
-47.237.82.15:2087Taipei-288-Asia Pacific
-150.230.34.116:443Taipei-194-Asia Pacific
-129.80.123.71:443Ashburn-253-North America
-47.76.159.146:2087Taipei-332-Asia Pacific
-13.36.162.145:2087Taipei-73-Asia Pacific
-34.141.221.33:2096Kaohsiung City-273-Asia Pacific
-47.237.100.206:2083Kaohsiung City-302-Asia Pacific
-150.230.149.208:443Kaohsiung City-162-Asia Pacific
-176.116.21.77:2096Taipei-88-Asia Pacific
-47.236.93.176:2087Taipei-354-Asia Pacific
-176.116.21.85:2053Kaohsiung City-44-Asia Pacific
-54.150.160.166:2053Kaohsiung City-18-Asia Pacific
-47.236.102.102:2087Kaohsiung City-384-Asia Pacific
-47.237.10.1:2053Taipei-350-Asia Pacific
-47.237.10.1:2083Taipei-331-Asia Pacific
-129.151.198.3:2053Taipei-167-Asia Pacific
-47.237.8.82:2083Taipei-287-Asia Pacific
-13.211.0.227:2083Taipei-42-Asia Pacific
-141.145.199.188:443Kaohsiung City-156-Asia Pacific
-152.67.129.93:443Taipei-143-Asia Pacific
-13.36.24.111:2087Kaohsiung City-101-Asia Pacific
-47.237.0.31:2096Taipei-329-Asia Pacific
-47.237.8.82:2087Taipei-393-Asia Pacific
-47.236.180.24:2087Taipei-290-Asia Pacific
-150.230.23.98:443Taipei-193-Asia Pacific
-204.110.221.135:80Montréal-130-North America
-141.144.199.146:443Taipei-144-Asia Pacific
-193.123.233.143:2096Taipei-183-Asia Pacific
-192.18.134.28:443Taipei-134-Asia Pacific
-176.116.21.101:2053Taipei-22-Asia Pacific
-13.53.136.165:443Taipei-15-Asia Pacific
-47.237.10.1:8443Taipei-316-Asia Pacific
-51.112.42.161:2053Kaohsiung City-26-Asia Pacific
-168.138.50.249:443Kaohsiung City-222-Asia Pacific
-13.53.47.110:2083Taipei-91-Asia Pacific
-35.167.93.200:443Portland-117-North America
-47.245.86.230:2087Kaohsiung City-315-Asia Pacific
-34.175.244.157:2087Taipei-269-Asia Pacific
-141.147.61.116:2053Taipei-153-Asia Pacific
-16.63.55.49:2053Taipei-7-Asia Pacific
-150.230.20.156:2053Taipei-161-Asia Pacific
-34.175.244.157:2053Taipei-261-Asia Pacific
-18.189.94.250:443Columbus-124-North America
-150.230.20.156:8443Amsterdam-238-Europe
-15.161.74.249:2096Taipei-106-Asia Pacific
-152.67.231.219:443Kaohsiung City-208-Asia Pacific
-132.145.54.84:8443Kaohsiung City-152-Asia Pacific
-158.101.199.249:8443Amsterdam-239-Europe
-176.116.21.101:2083Taipei-23-Asia Pacific
-152.67.78.184:443Kaohsiung City-173-Asia Pacific
-129.153.39.213:8443Taipei-170-Asia Pacific
-158.180.49.11:2053Frankfurt-243-Europe
-13.53.47.110:2096Taipei-71-Asia Pacific
-89.168.122.44:443Kaohsiung City-210-Asia Pacific
-3.8.234.193:2053Taipei-57-Asia Pacific
-158.180.49.11:8443Frankfurt-242-Europe
-47.236.63.152:443Taipei-326-Asia Pacific
-13.36.162.145:2096Taipei-51-Asia Pacific
-47.237.86.185:2053Kaohsiung City-394-Asia Pacific
-47.245.86.230:2053Kaohsiung City-405-Asia Pacific
-47.236.10.100:2096Taipei-323-Asia Pacific
-47.76.94.15:2096Taipei-379-Asia Pacific
-13.36.162.145:2083Taipei-4-Asia Pacific
-141.144.232.159:443Taipei-142-Asia Pacific
-47.236.5.223:2083Taipei-277-Asia Pacific
-43.204.115.165:8443Taipei-55-Asia Pacific
-52.65.52.144:2053Taipei-111-Asia Pacific
-34.147.101.117:2053Taipei-260-Asia Pacific
-34.127.87.123:443Kaohsiung City-270-Asia Pacific
-47.236.9.152:8443Kaohsiung City-311-Asia Pacific
-89.168.43.31:8443Paris-246-Europe
-35.167.225.145:2087Kaohsiung City-66-Asia Pacific
-192.18.159.129:443Taipei-163-Asia Pacific
-176.116.21.142:2096Taipei-20-Asia Pacific
-129.153.39.213:2053Taipei-216-Asia Pacific
-141.144.253.109:443Taipei-219-Asia Pacific
-176.116.21.77:2087Taipei-82-Asia Pacific
-141.144.202.252:443Kaohsiung City-179-Asia Pacific
-47.237.81.112:8443Taipei-343-Asia Pacific
-176.116.21.89:2083Taipei-60-Asia Pacific
-204.110.223.75:80Columbus-123-North America
-47.236.10.100:2083Taipei-309-Asia Pacific
-47.236.237.90:8443Kaohsiung City-352-Asia Pacific
-47.236.10.182:2083Taipei-404-Asia Pacific
-91.217.139.121:8443Kaohsiung City-274-Asia Pacific
-35.179.75.202:2096Taipei-70-Asia Pacific
-3.98.54.22:8443Taipei-102-Asia Pacific
-158.101.24.17:443Los Angeles-229-North America
-47.245.102.52:2083Kaohsiung City-390-Asia Pacific
-176.116.21.78:2083Taipei-56-Asia Pacific
-47.76.227.128:2087Kaohsiung City-348-Asia Pacific
-13.215.80.221:2083Taipei-67-Asia Pacific
-193.123.235.59:443Kaohsiung City-137-Asia Pacific
-3.97.1.47:2083Kaohsiung City-27-Asia Pacific
-47.237.10.1:2087Taipei-341-Asia Pacific
-34.218.233.177:2053Kaohsiung City-84-Asia Pacific
-47.76.29.115:2083Taipei-296-Asia Pacific
-150.230.62.27:443Taipei-140-Asia Pacific
-193.122.8.216:443Taipei-200-Asia Pacific
-129.146.138.227:443Taipei-171-Asia Pacific
-35.167.225.145:2096Kaohsiung City-31-Asia Pacific
-47.236.172.95:2096Taipei-353-Asia Pacific
-52.65.99.165:2083Taipei-33-Asia Pacific
-18.135.67.188:443London-121-Europe
-176.116.21.141:2087Taipei-96-Asia Pacific
-18.135.188.86:443London-120-Europe
-52.60.241.195:2096Taipei-105-Asia Pacific
-47.76.218.163:443Hong Kong-409-Asia Pacific
-193.122.107.147:443Taipei-204-Asia Pacific
-158.180.49.12:443Kaohsiung City-174-Asia Pacific
-54.253.222.7:2083Kaohsiung City-2-Asia Pacific
-52.64.153.64:2083Kaohsiung City-34-Asia Pacific
-152.70.59.90:8443Amsterdam-235-Europe
-192.9.159.65:443Taipei-206-Asia Pacific
-168.138.66.11:443Kaohsiung City-172-Asia Pacific
-193.123.250.209:2087Kaohsiung City-224-Asia Pacific
-52.65.184.139:2053Taipei-5-Asia Pacific
-47.236.125.62:2087Taipei-376-Asia Pacific
-176.116.21.91:2096Taipei-29-Asia Pacific
-193.122.197.111:443Taipei-203-Asia Pacific
-150.136.240.243:443Taipei-217-Asia Pacific
-54.252.91.41:2053Taipei-85-Asia Pacific
-34.175.244.157:2083Taipei-265-Asia Pacific
-47.238.131.39:443Kaohsiung City-365-Asia Pacific
-129.146.133.33:443Taipei-138-Asia Pacific
-54.251.118.130:2083Taipei-97-Asia Pacific
-18.202.149.25:2053Kaohsiung City-109-Asia Pacific
-47.236.171.205:2087Taipei-282-Asia Pacific
-13.36.253.240:2053Taipei-68-Asia Pacific
-47.236.93.176:2053Taipei-338-Asia Pacific
-129.153.126.67:443Taipei-168-Asia Pacific
-51.17.192.69:443Taipei-39-Asia Pacific
-176.116.21.152:2083Taipei-116-Asia Pacific
-47.236.102.102:8443Kaohsiung City-372-Asia Pacific
-47.236.10.100:8443Taipei-276-Asia Pacific
-47.236.158.158:2096Taipei-281-Asia Pacific
-50.18.219.153:443Taipei-35-Asia Pacific
-34.175.95.58:2053Taipei-256-Asia Pacific
-34.147.101.117:2083Taipei-257-Asia Pacific
-141.147.68.252:443Taipei-141-Asia Pacific
-54.254.190.97:2096Taipei-21-Asia Pacific
-47.88.24.145:443Taipei-306-Asia Pacific
-13.246.85.121:2087Taipei-50-Asia Pacific
-34.141.221.33:2083Kaohsiung City-268-Asia Pacific
-47.236.125.62:2053Taipei-363-Asia Pacific
-141.144.203.48:443Kaohsiung City-226-Asia Pacific
-141.147.10.201:443Taipei-202-Asia Pacific
-47.245.96.80:2083Taipei-318-Asia Pacific
-47.236.237.90:2053Kaohsiung City-408-Asia Pacific
-43.206.192.211:443Tokyo-127-Asia Pacific
-47.236.125.62:2083Taipei-380-Asia Pacific
-192.9.180.162:443Kaohsiung City-214-Asia Pacific
-168.138.215.251:443Taipei-221-Asia Pacific
-47.76.227.128:8443Kaohsiung City-335-Asia Pacific
-47.237.86.185:2096Kaohsiung City-297-Asia Pacific
-13.36.162.145:2053Taipei-103-Asia Pacific
-47.237.100.206:8443Kaohsiung City-292-Asia Pacific
-47.236.144.48:2083Taipei-403-Asia Pacific
-47.236.158.158:8443Taipei-294-Asia Pacific
-47.76.29.115:8443Taipei-401-Asia Pacific
-47.76.178.146:443Taipei-374-Asia Pacific
+146.235.59.153:2053São Paulo-37-South America
+158.180.49.11:2053Frankfurt-45-Europe
+129.213.136.180:443Ashburn-27-North America
+217.142.243.226:443Osaka-31-Asia Pacific
+35.167.93.200:443Portland-3-North America
+158.178.206.197:2053Paris-38-Europe
+3.7.108.69:443Mumbai-19-Asia Pacific
+140.238.158.238:8080Toronto-39-North America
+150.230.20.156:2053Amsterdam-34-Europe
+204.110.223.199:80Columbus-12-North America
+168.138.184.172:443Singapore-24-Asia Pacific
+158.101.199.249:8443Amsterdam-33-Europe
+129.151.198.3:8443Stockholm-42-Europe
+89.168.68.57:2053Frankfurt-41-Europe
+141.147.85.167:8443London-32-Europe
+146.235.59.153:8443São Paulo-50-South America
+204.110.223.40:80Columbus-9-North America
+150.230.20.156:8443Amsterdam-30-Europe
+158.178.206.197:8443Paris-28-Europe
+18.189.94.250:443Columbus-5-North America
+192.9.137.193:8443San Jose-20-North America
+141.148.229.106:443Amsterdam-29-Europe
+132.226.163.224:2053São Paulo-48-South America
+3.99.106.179:443Montréal-14-North America
+3.98.73.243:443Montréal-13-North America
+44.226.147.29:443Portland-11-North America
+129.146.46.164:443Los Angeles-25-North America
+168.138.141.235:2053São Paulo-49-South America
+47.57.13.107:443Hong Kong-55-Asia Pacific
+204.110.223.167:80Columbus-7-North America
+18.135.188.86:443London-4-Europe
+18.135.67.188:443London-1-Europe
+204.110.220.230:80San Jose-2-North America
+44.227.22.10:443Portland-8-North America
+13.233.5.49:443Mumbai-18-Asia Pacific
+141.145.205.115:8443Paris-35-Europe
+158.180.49.11:8443Frankfurt-44-Europe
+132.226.163.224:8443São Paulo-46-South America
+89.168.83.143:8443Frankfurt-21-Europe
+89.168.43.31:2053Paris-47-Europe
+130.61.107.238:8443Frankfurt-40-Europe
+204.110.223.180:80Columbus-15-North America
+47.76.218.163:443Hong Kong-52-Asia Pacific
+89.168.68.57:8443Frankfurt-51-Europe
+150.136.87.192:443Ashburn-26-North America
+168.138.46.67:443Osaka-43-Asia Pacific
+152.70.155.147:2087Los Angeles-23-North America
+47.57.245.232:443San Jose-54-North America
+149.129.8.215:443San Jose-53-North America
+204.110.221.144:80Montréal-6-North America
+3.111.155.29:443Mumbai-17-Asia Pacific
+84.235.166.185:443Frankfurt-22-Europe
+43.206.192.211:443Tokyo-16-Asia Pacific
+50.112.166.63:443Portland-10-North America
+89.168.43.31:8443Paris-36-Europe
