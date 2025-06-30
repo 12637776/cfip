@@ -1,55 +1,20 @@
-146.235.59.153:2053São Paulo-37-South America
-158.180.49.11:2053Frankfurt-45-Europe
-129.213.136.180:443Ashburn-27-North America
-217.142.243.226:443Osaka-31-Asia Pacific
-35.167.93.200:443Portland-3-North America
-158.178.206.197:2053Paris-38-Europe
-3.7.108.69:443Mumbai-19-Asia Pacific
-140.238.158.238:8080Toronto-39-North America
-150.230.20.156:2053Amsterdam-34-Europe
-204.110.223.199:80Columbus-12-North America
-168.138.184.172:443Singapore-24-Asia Pacific
-158.101.199.249:8443Amsterdam-33-Europe
-129.151.198.3:8443Stockholm-42-Europe
-89.168.68.57:2053Frankfurt-41-Europe
-141.147.85.167:8443London-32-Europe
-146.235.59.153:8443São Paulo-50-South America
-204.110.223.40:80Columbus-9-North America
-150.230.20.156:8443Amsterdam-30-Europe
-158.178.206.197:8443Paris-28-Europe
-18.189.94.250:443Columbus-5-North America
-192.9.137.193:8443San Jose-20-North America
-141.148.229.106:443Amsterdam-29-Europe
-132.226.163.224:2053São Paulo-48-South America
-3.99.106.179:443Montréal-14-North America
-3.98.73.243:443Montréal-13-North America
+3.98.73.243:443Montréal-8-North America
+18.189.94.250:443Columbus-19-North America
+43.206.192.211:443Tokyo-7-Asia Pacific
+204.110.220.224:80San Jose-16-North America
+44.227.22.10:443Portland-1-North America
+3.7.108.69:443Mumbai-18-Asia Pacific
+18.135.188.86:443London-17-Europe
+18.135.67.188:443London-9-Europe
+15.157.7.168:443Montréal-5-North America
+166.0.188.128:47314Los Angeles-20-North America
+204.110.223.177:80Columbus-13-North America
+13.233.5.49:443Mumbai-14-Asia Pacific
+3.99.106.179:443Montréal-4-North America
+50.112.166.63:443Portland-15-North America
+204.110.221.1:80Montréal-3-North America
+204.110.220.185:80San Jose-12-North America
+204.110.223.255:80Columbus-2-North America
+35.167.93.200:443Portland-10-North America
+3.111.155.29:443Mumbai-6-Asia Pacific
 44.226.147.29:443Portland-11-North America
-129.146.46.164:443Los Angeles-25-North America
-168.138.141.235:2053São Paulo-49-South America
-47.57.13.107:443Hong Kong-55-Asia Pacific
-204.110.223.167:80Columbus-7-North America
-18.135.188.86:443London-4-Europe
-18.135.67.188:443London-1-Europe
-204.110.220.230:80San Jose-2-North America
-44.227.22.10:443Portland-8-North America
-13.233.5.49:443Mumbai-18-Asia Pacific
-141.145.205.115:8443Paris-35-Europe
-158.180.49.11:8443Frankfurt-44-Europe
-132.226.163.224:8443São Paulo-46-South America
-89.168.83.143:8443Frankfurt-21-Europe
-89.168.43.31:2053Paris-47-Europe
-130.61.107.238:8443Frankfurt-40-Europe
-204.110.223.180:80Columbus-15-North America
-47.76.218.163:443Hong Kong-52-Asia Pacific
-89.168.68.57:8443Frankfurt-51-Europe
-150.136.87.192:443Ashburn-26-North America
-168.138.46.67:443Osaka-43-Asia Pacific
-152.70.155.147:2087Los Angeles-23-North America
-47.57.245.232:443San Jose-54-North America
-149.129.8.215:443San Jose-53-North America
-204.110.221.144:80Montréal-6-North America
-3.111.155.29:443Mumbai-17-Asia Pacific
-84.235.166.185:443Frankfurt-22-Europe
-43.206.192.211:443Tokyo-16-Asia Pacific
-50.112.166.63:443Portland-10-North America
-89.168.43.31:8443Paris-36-Europe
