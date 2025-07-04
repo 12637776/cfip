@@ -1,23 +1,20 @@
-44.227.22.10:443Portland-2-North America
-47.76.218.163:443Hong Kong-20-Asia Pacific
-3.111.155.29:443Mumbai-19-Asia Pacific
-204.110.223.75:80Columbus-16-North America
-166.0.188.128:47314Los Angeles-22-North America
-47.57.233.126:443San Jose-21-North America
-35.167.93.200:443Portland-15-North America
-204.110.220.196:80San Jose-1-North America
-204.110.223.199:80Columbus-12-North America
-3.98.73.243:443Montréal-18-North America
-204.110.223.86:80Columbus-4-North America
-43.206.192.211:443Tokyo-17-Asia Pacific
-44.226.147.29:443Portland-13-North America
-204.110.223.229:80Columbus-5-North America
-166.0.188.128:47314Los Angeles-23-North America
-204.110.223.255:80Columbus-7-North America
-18.135.67.188:443London-9-Europe
-15.157.7.168:443Montréal-8-North America
-18.189.94.250:443Columbus-14-North America
-204.110.221.135:80Montréal-6-North America
-50.112.166.63:443Portland-3-North America
-18.135.188.86:443London-10-Europe
-3.99.106.179:443Montréal-11-North America
+47.57.13.107:443Hong Kong-19-Asia Pacific
+43.206.192.211:443Tokyo-12-Asia Pacific
+15.157.7.168:443Montréal-6-North America
+47.76.218.163:443Hong Kong-17-Asia Pacific
+13.40.128.14:8443London-16-Europe
+44.227.22.10:443Portland-5-North America
+18.135.188.86:443London-4-Europe
+204.110.223.177:80Columbus-7-North America
+3.98.73.243:443Montréal-13-North America
+3.99.106.179:443Montréal-2-North America
+204.110.220.145:80San Jose-3-North America
+3.111.155.29:443Mumbai-15-Asia Pacific
+35.167.93.200:443Portland-8-North America
+166.0.188.128:47314Los Angeles-20-North America
+50.112.166.63:443Portland-10-North America
+18.135.67.188:443London-1-Europe
+18.189.94.250:443Columbus-9-North America
+47.57.245.232:443San Jose-18-North America
+44.226.147.29:443Portland-11-North America
+3.7.108.69:443Mumbai-14-Asia Pacific
