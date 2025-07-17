@@ -1,24 +1,32 @@
-204.110.221.40:80Montréal-8-North America
-8.219.1.169:443Singapore-24-Asia Pacific
-44.227.22.10:443Portland-1-North America
-8.219.1.169:443Singapore-21-Asia Pacific
-3.7.108.69:443Mumbai-18-Asia Pacific
-47.76.218.163:443Hong Kong-22-Asia Pacific
-47.57.245.232:443San Jose-23-North America
-18.135.188.86:443London-5-Europe
-44.226.147.29:443Portland-11-North America
-18.189.94.250:443Columbus-10-North America
-204.110.220.61:80San Jose-15-North America
-13.233.5.49:443Mumbai-6-Asia Pacific
-43.206.192.211:443Tokyo-7-Asia Pacific
-204.110.223.83:80Columbus-14-North America
-3.111.155.29:443Mumbai-13-Asia Pacific
-3.98.73.243:443Montréal-3-North America
-15.157.7.168:443Montréal-17-North America
-149.129.8.215:443San Jose-20-North America
-204.110.223.199:80Columbus-4-North America
-35.167.93.200:443Portland-16-North America
-47.57.245.232:443San Jose-19-North America
-3.99.106.179:443Montréal-2-North America
-204.110.221.20:80Montréal-12-North America
-50.112.166.63:443Portland-9-North America
+140.238.158.238:8080Toronto-30-North America
+129.80.123.71:443Ashburn-16-North America
+152.70.59.90:8443Amsterdam-8-Europe
+130.61.107.238:8443Frankfurt-3-Europe
+141.145.205.115:8443Paris-26-Europe
+150.230.20.156:8443Amsterdam-17-Europe
+89.168.43.31:2053Paris-23-Europe
+47.76.218.163:443Hong Kong-32-Asia Pacific
+132.226.163.224:8443São Paulo-20-South America
+168.138.194.74:443Tokyo-29-Asia Pacific
+89.168.68.57:8443Frankfurt-14-Europe
+141.147.85.167:8443London-9-Europe
+132.226.163.224:2053São Paulo-27-South America
+158.180.49.11:2053Frankfurt-19-Europe
+8.219.1.169:443Singapore-31-Asia Pacific
+138.3.222.33:443Tokyo-28-Asia Pacific
+146.235.59.153:2053São Paulo-15-South America
+158.178.206.197:2053Paris-21-Europe
+150.230.20.156:2053Amsterdam-6-Europe
+146.235.59.153:8443São Paulo-12-South America
+89.168.68.57:2053Frankfurt-4-Europe
+158.178.206.197:8443Paris-24-Europe
+158.101.24.17:443Los Angeles-11-North America
+89.168.83.143:8443Frankfurt-7-Europe
+168.138.184.172:443Singapore-10-Asia Pacific
+89.168.43.31:8443Paris-25-Europe
+168.138.141.235:2053São Paulo-13-South America
+217.142.243.226:443Osaka-5-Asia Pacific
+158.180.49.11:8443Frankfurt-22-Europe
+129.151.198.3:8443Stockholm-18-Europe
+192.9.137.193:8443San Jose-1-North America
+158.101.199.249:8443Amsterdam-2-Europe
