@@ -1,60 +1,398 @@
-204.110.220.79:80San Jose-8-North America
-192.9.180.162:443Sydney-51-Oceania
-35.167.93.200:443Portland-6-North America
-129.159.241.172:443Frankfurt-36-Europe
-204.110.223.75:80Columbus-2-North America
-155.248.202.141:443San Jose-13-North America
-168.138.194.74:443Tokyo-57-Asia Pacific
-129.146.46.164:443Los Angeles-11-North America
-129.159.84.71:443Ashburn-40-North America
-129.213.136.180:443Ashburn-24-North America
-47.76.218.163:443Hong Kong-59-Asia Pacific
-204.110.220.169:80San Jose-7-North America
-146.235.59.153:8443São Paulo-45-South America
-152.70.155.147:2096Los Angeles-28-North America
-130.61.107.238:8443Frankfurt-42-Europe
-204.110.223.219:80Columbus-3-North America
-204.110.220.192:80San Jose-5-North America
-140.238.158.238:443Toronto-26-North America
-152.70.155.147:443Los Angeles-17-North America
-64.110.104.30:443Osaka-18-Asia Pacific
-132.226.7.217:443Tokyo-56-Asia Pacific
-158.178.206.197:8443Paris-52-Europe
-158.101.199.249:8443Amsterdam-35-Europe
-141.145.205.115:8443Paris-50-Europe
-141.147.85.167:8443London-33-Europe
-89.168.43.31:8443Paris-49-Europe
-152.70.155.147:2087Los Angeles-22-North America
-144.21.42.133:443Frankfurt-23-Europe
-158.101.223.48:443Frankfurt-19-Europe
-152.70.155.147:2053Los Angeles-16-North America
-8.219.1.169:443Singapore-58-Asia Pacific
-146.235.59.153:2053São Paulo-41-South America
-152.70.59.90:8443Amsterdam-20-Europe
-89.168.68.57:2053Frankfurt-29-Europe
-158.178.206.197:2053Paris-37-Europe
-132.226.163.224:8443São Paulo-39-South America
-150.136.87.192:443Ashburn-14-North America
-89.168.83.143:8443Frankfurt-10-Europe
-89.168.43.31:2053Paris-30-Europe
-193.123.81.105:443Dubai-32-Middle East
-140.83.86.166:443Osaka-55-Asia Pacific
-158.180.49.11:2053Frankfurt-27-Europe
-150.230.7.216:443Osaka-21-Asia Pacific
-217.142.243.226:443Osaka-43-Asia Pacific
-129.80.123.71:443Ashburn-54-North America
-204.110.220.224:80San Jose-9-North America
-132.145.127.203:8443Tokyo-53-Asia Pacific
-204.110.221.251:80Montréal-4-North America
-150.230.20.156:2053Amsterdam-34-Europe
-47.57.13.107:443Hong Kong-60-Asia Pacific
-89.168.68.57:8443Frankfurt-38-Europe
-150.230.20.156:8443Amsterdam-31-Europe
-204.110.220.249:80San Jose-1-North America
-152.70.155.147:8443Los Angeles-12-North America
-132.226.163.224:2053São Paulo-48-South America
-158.180.49.11:8443Frankfurt-47-Europe
-140.238.158.238:8080Toronto-46-North America
-168.138.46.67:443Osaka-15-Asia Pacific
-152.70.155.147:2083Los Angeles-25-North America
-168.138.141.235:2053São Paulo-44-South America
+13.53.172.167:443Frankfurt-97-Europe
+52.76.182.63:2083Taipei-43-Asia Pacific
+3.96.246.140:2053Taipei-41-Asia Pacific
+176.116.21.153:2087Taipei-11-Asia Pacific
+146.56.133.140:2096Kaohsiung City-128-Asia Pacific
+8.222.169.222:8443Frankfurt-387-Europe
+158.180.49.12:443Frankfurt-143-Europe
+47.236.253.41:2053Taipei-295-Asia Pacific
+141.11.78.134:8443Frankfurt-397-Europe
+141.148.237.170:443Frankfurt-212-Europe
+47.236.83.239:2087Taipei-324-Asia Pacific
+50.112.33.254:443Frankfurt-118-Europe
+47.236.87.246:8443Frankfurt-323-Europe
+52.42.127.37:2083Taipei-10-Asia Pacific
+192.18.159.129:443Frankfurt-221-Europe
+3.12.198.101:443Frankfurt-27-Europe
+34.147.101.117:2083Taipei-225-Asia Pacific
+50.112.166.63:443Frankfurt-45-Europe
+150.230.22.39:443Frankfurt-202-Europe
+141.147.93.177:443Frankfurt-167-Europe
+43.204.115.165:2083Taipei-123-Asia Pacific
+54.254.190.97:2096Kaohsiung City-92-Asia Pacific
+150.136.240.243:443Frankfurt-134-Europe
+13.235.79.32:8443Frankfurt-28-Europe
+141.144.202.252:443Frankfurt-210-Europe
+47.76.159.146:2087Kaohsiung City-285-Asia Pacific
+13.55.59.224:2053Taipei-124-Asia Pacific
+141.147.178.154:443Frankfurt-180-Europe
+34.175.161.245:2096Kaohsiung City-236-Asia Pacific
+176.116.21.93:2053Taipei-3-Asia Pacific
+152.69.228.83:443Frankfurt-150-Europe
+47.236.123.133:8443Frankfurt-310-Europe
+129.159.248.173:443Frankfurt-158-Europe
+47.236.121.23:2083Kaohsiung City-248-Asia Pacific
+176.116.21.91:2096Taipei-13-Asia Pacific
+8.219.51.211:8443Frankfurt-382-Europe
+47.236.117.48:2053Taipei-291-Asia Pacific
+141.148.242.213:443Frankfurt-216-Europe
+103.99.179.39:443Frankfurt-239-Europe
+47.238.5.0:2083Kaohsiung City-275-Asia Pacific
+47.76.227.128:2083Taipei-292-Asia Pacific
+13.233.28.21:2083Taipei-12-Asia Pacific
+129.159.241.172:443Frankfurt-201-Europe
+192.9.138.241:443Frankfurt-209-Europe
+47.236.125.62:2096Taipei-256-Asia Pacific
+8.218.148.106:443Frankfurt-364-Europe
+47.76.222.57:2087Kaohsiung City-340-Asia Pacific
+47.76.204.76:2053Taipei-268-Asia Pacific
+8.217.250.222:8443Frankfurt-362-Europe
+152.70.112.158:443Frankfurt-220-Europe
+8.210.42.171:8443Frankfurt-357-Europe
+150.230.34.116:443Frankfurt-194-Europe
+47.76.213.245:2083Taipei-272-Asia Pacific
+13.233.115.251:2087Taipei-107-Asia Pacific
+13.201.77.134:2087Kaohsiung City-20-Asia Pacific
+15.223.51.146:2053Taipei-78-Asia Pacific
+13.236.104.165:2053Kaohsiung City-85-Asia Pacific
+176.116.21.180:2083Taipei-48-Asia Pacific
+47.245.84.124:2096Kaohsiung City-274-Asia Pacific
+13.201.77.134:2053Kaohsiung City-44-Asia Pacific
+176.116.21.103:2083Taipei-59-Asia Pacific
+13.215.80.221:2083Kaohsiung City-109-Asia Pacific
+47.236.117.48:8443Frankfurt-312-Europe
+3.8.234.193:2096Taipei-108-Asia Pacific
+47.76.32.108:2053Taipei-300-Asia Pacific
+47.236.113.184:443Frankfurt-296-Europe
+8.217.132.184:443Frankfurt-361-Europe
+141.148.242.113:8443Frankfurt-156-Europe
+47.245.84.124:2083Kaohsiung City-330-Asia Pacific
+47.236.117.48:443Frankfurt-313-Europe
+47.236.102.102:8443Frankfurt-304-Europe
+8.220.223.223:443Frankfurt-386-Europe
+176.116.21.140:2083Taipei-8-Asia Pacific
+13.233.28.21:443Frankfurt-69-Europe
+141.147.190.128:443Frankfurt-192-Europe
+47.237.82.15:8443Frankfurt-240-Europe
+168.138.184.172:443Frankfurt-183-Europe
+152.70.248.96:443Frankfurt-136-Europe
+13.235.79.32:443Frankfurt-9-Europe
+52.42.127.37:2053Taipei-37-Asia Pacific
+47.76.159.146:2096Kaohsiung City-337-Asia Pacific
+8.211.21.14:443Frankfurt-247-Europe
+8.222.208.38:443Frankfurt-390-Europe
+47.242.155.183:8443Frankfurt-349-Europe
+47.237.121.38:2096Taipei-325-Asia Pacific
+150.230.149.208:443Frankfurt-132-Europe
+152.70.155.147:2087Kaohsiung City-129-Asia Pacific
+129.146.134.77:443Frankfurt-200-Europe
+54.245.58.106:2096Taipei-33-Asia Pacific
+13.53.108.225:443Frankfurt-70-Europe
+15.160.14.66:2087Taipei-72-Asia Pacific
+8.210.39.96:8443Frankfurt-356-Europe
+141.147.161.250:443Frankfurt-139-Europe
+193.123.252.170:2053Kaohsiung City-130-Asia Pacific
+52.65.99.165:2087Taipei-6-Asia Pacific
+47.236.118.216:2087Taipei-262-Asia Pacific
+47.90.141.204:443Frankfurt-331-Europe
+176.116.21.138:2083Taipei-62-Asia Pacific
+34.141.221.33:2053Kaohsiung City-230-Asia Pacific
+47.243.255.224:8443Frankfurt-377-Europe
+89.168.121.215:443Frankfurt-219-Europe
+47.243.173.187:443Frankfurt-355-Europe
+35.167.93.200:443Frankfurt-54-Europe
+8.219.237.250:8443Frankfurt-396-Europe
+8.219.114.201:443Frankfurt-372-Europe
+52.65.52.144:2053Kaohsiung City-71-Asia Pacific
+3.112.21.102:443Frankfurt-101-Europe
+34.175.133.251:2053Taipei-222-Asia Pacific
+47.236.253.41:2083Taipei-316-Asia Pacific
+141.147.10.201:443Frankfurt-196-Europe
+3.96.145.1:443Frankfurt-51-Europe
+47.236.10.182:2083Kaohsiung City-288-Asia Pacific
+176.116.21.103:2087Taipei-103-Asia Pacific
+47.57.13.107:443Frankfurt-394-Europe
+176.116.21.74:2087Taipei-111-Asia Pacific
+89.168.99.254:443Frankfurt-162-Europe
+8.219.77.222:8443Frankfurt-383-Europe
+8.217.193.25:8443Frankfurt-360-Europe
+34.175.244.157:2053Taipei-237-Asia Pacific
+141.144.229.61:443Frankfurt-159-Europe
+47.236.83.239:2096Taipei-251-Asia Pacific
+47.76.218.163:443Frankfurt-284-Europe
+47.245.84.124:8443Frankfurt-280-Europe
+47.236.144.48:2083Taipei-277-Asia Pacific
+34.141.248.249:2096Taipei-229-Asia Pacific
+13.36.162.145:2053Kaohsiung City-81-Asia Pacific
+129.146.138.227:443Frankfurt-165-Europe
+129.153.126.67:443Frankfurt-148-Europe
+47.236.170.54:8443Frankfurt-293-Europe
+150.230.7.216:443Frankfurt-144-Europe
+15.157.7.168:443Frankfurt-106-Europe
+192.9.180.162:443Frankfurt-155-Europe
+47.76.29.115:2087Taipei-335-Asia Pacific
+8.217.121.210:443Frankfurt-343-Europe
+13.235.79.32:2087Taipei-83-Asia Pacific
+52.39.201.69:2096Taipei-14-Asia Pacific
+47.236.172.95:2083Taipei-336-Asia Pacific
+52.76.182.63:2087Taipei-32-Asia Pacific
+8.219.98.13:8443Frankfurt-384-Europe
+176.116.21.75:2053Taipei-102-Asia Pacific
+8.219.4.122:8443Frankfurt-378-Europe
+176.116.21.109:2053Taipei-25-Asia Pacific
+35.179.75.202:443Frankfurt-58-Europe
+47.238.6.58:2083Kaohsiung City-250-Asia Pacific
+47.90.201.189:443Frankfurt-258-Europe
+47.236.10.182:8443Frankfurt-281-Europe
+47.236.104.11:2087Taipei-354-Asia Pacific
+47.236.171.205:2096Taipei-266-Asia Pacific
+35.167.225.145:2053Taipei-104-Asia Pacific
+141.147.103.53:443Frankfurt-197-Europe
+158.180.52.89:443Frankfurt-151-Europe
+34.210.73.42:2053Kaohsiung City-96-Asia Pacific
+47.236.102.102:2083Taipei-283-Asia Pacific
+47.236.110.238:443Frankfurt-317-Europe
+47.236.125.62:2087Taipei-245-Asia Pacific
+8.219.174.142:8443Frankfurt-376-Europe
+47.236.93.176:2087Taipei-279-Asia Pacific
+8.218.81.14:8443Frankfurt-371-Europe
+129.154.59.235:443Frankfurt-184-Europe
+47.236.93.176:8443Frankfurt-307-Europe
+47.254.174.66:443Frankfurt-264-Europe
+141.144.203.48:443Frankfurt-171-Europe
+13.201.221.231:443Frankfurt-26-Europe
+13.201.77.134:8443Frankfurt-87-Europe
+47.253.56.77:443Frankfurt-257-Europe
+168.138.66.11:443Frankfurt-170-Europe
+141.144.199.146:443Frankfurt-188-Europe
+54.203.7.73:8443Frankfurt-61-Europe
+3.96.246.140:2087Taipei-2-Asia Pacific
+8.219.201.8:443Frankfurt-375-Europe
+54.252.91.41:2053Taipei-16-Asia Pacific
+140.238.127.254:443Frankfurt-214-Europe
+47.89.244.253:443Frankfurt-259-Europe
+18.175.165.190:443Frankfurt-57-Europe
+47.76.37.57:8443Frankfurt-267-Europe
+141.147.116.91:443Frankfurt-191-Europe
+47.236.164.215:2053Taipei-347-Asia Pacific
+13.40.128.14:8443Frankfurt-29-Europe
+8.211.15.66:443Frankfurt-249-Europe
+47.236.172.71:8443Frankfurt-305-Europe
+141.144.253.109:443Frankfurt-217-Europe
+34.141.248.249:2053Taipei-234-Asia Pacific
+47.76.146.1:2087Taipei-342-Asia Pacific
+13.229.159.215:443Frankfurt-74-Europe
+129.213.165.166:443Frankfurt-199-Europe
+129.146.242.24:2053Taipei-125-Asia Pacific
+193.123.35.96:443Frankfurt-163-Europe
+47.243.107.148:443Frankfurt-344-Europe
+47.76.225.255:8443Frankfurt-290-Europe
+130.61.170.78:443Frankfurt-127-Europe
+176.116.21.185:2083Taipei-7-Asia Pacific
+176.116.21.103:2096Taipei-40-Asia Pacific
+13.235.79.32:2083Taipei-75-Asia Pacific
+47.236.158.158:8443Frankfurt-321-Europe
+141.147.77.7:443Frankfurt-190-Europe
+47.236.253.41:2087Taipei-306-Asia Pacific
+47.238.40.58:8443Frankfurt-241-Europe
+47.76.33.40:8443Frankfurt-334-Europe
+8.219.124.227:8443Frankfurt-374-Europe
+176.116.21.140:2096Taipei-122-Asia Pacific
+13.40.163.47:2096Taipei-89-Asia Pacific
+13.36.162.145:2083Kaohsiung City-105-Asia Pacific
+13.36.162.145:2087Kaohsiung City-56-Asia Pacific
+13.36.162.145:2096Kaohsiung City-31-Asia Pacific
+141.147.117.198:443Frankfurt-187-Europe
+176.116.21.75:2096Taipei-114-Asia Pacific
+158.101.169.13:2053Taipei-131-Asia Pacific
+13.211.0.227:2096Kaohsiung City-53-Asia Pacific
+47.238.6.102:2096Taipei-261-Asia Pacific
+47.236.166.131:2083Taipei-320-Asia Pacific
+47.236.10.182:2087Kaohsiung City-322-Asia Pacific
+13.201.77.134:443Frankfurt-112-Europe
+13.53.47.110:2083Taipei-88-Asia Pacific
+103.255.208.216:443Frankfurt-398-Europe
+18.188.145.159:443Frankfurt-110-Europe
+8.218.2.181:8443Frankfurt-369-Europe
+47.245.114.163:2087Kaohsiung City-303-Asia Pacific
+18.191.3.99:443Frankfurt-60-Europe
+150.230.62.27:443Frankfurt-175-Europe
+47.237.82.15:2053Kaohsiung City-255-Asia Pacific
+47.236.144.48:8443Frankfurt-326-Europe
+13.36.63.124:2096Kaohsiung City-55-Asia Pacific
+176.116.21.161:2053Taipei-93-Asia Pacific
+8.215.57.183:443Frankfurt-359-Europe
+8.217.251.62:8443Frankfurt-363-Europe
+47.236.125.62:8443Frankfurt-328-Europe
+3.8.234.193:443Frankfurt-99-Europe
+54.66.80.167:2053Taipei-4-Asia Pacific
+129.146.46.164:443Frankfurt-181-Europe
+52.76.182.63:2096Taipei-116-Asia Pacific
+152.70.119.237:443Frankfurt-140-Europe
+47.236.144.208:8443Frankfurt-271-Europe
+47.242.171.94:8443Frankfurt-348-Europe
+3.98.54.22:8443Frankfurt-121-Europe
+47.237.14.220:2083Taipei-253-Asia Pacific
+13.246.85.121:2096Taipei-47-Asia Pacific
+54.219.139.36:443Frankfurt-52-Europe
+89.168.72.255:443Frankfurt-179-Europe
+52.39.201.69:8443Frankfurt-19-Europe
+192.18.141.27:443Frankfurt-218-Europe
+89.168.82.46:443Frankfurt-182-Europe
+130.61.181.61:2053Kaohsiung City-208-Asia Pacific
+8.210.207.214:8443Frankfurt-351-Europe
+47.236.93.176:2096Taipei-299-Asia Pacific
+47.236.118.216:8443Frankfurt-314-Europe
+176.116.21.104:2087Taipei-113-Asia Pacific
+168.138.162.187:443Frankfurt-206-Europe
+8.218.48.92:8443Frankfurt-370-Europe
+34.141.221.33:2083Kaohsiung City-232-Asia Pacific
+89.168.99.77:443Frankfurt-145-Europe
+47.243.74.220:8443Frankfurt-395-Europe
+132.145.54.84:8443Frankfurt-186-Europe
+176.116.21.104:2053Taipei-15-Asia Pacific
+47.89.191.155:443Frankfurt-278-Europe
+8.222.237.131:8443Frankfurt-391-Europe
+150.230.23.98:443Frankfurt-177-Europe
+34.141.248.249:2087Taipei-224-Asia Pacific
+129.146.168.102:443Frankfurt-168-Europe
+89.168.122.44:443Frankfurt-147-Europe
+193.123.252.170:2083Kaohsiung City-215-Asia Pacific
+47.236.10.100:2053Taipei-319-Asia Pacific
+146.56.146.67:443Frankfurt-211-Europe
+141.144.193.68:443Frankfurt-154-Europe
+8.218.122.55:8443Frankfurt-365-Europe
+8.222.183.242:8443Frankfurt-388-Europe
+150.230.20.156:8443Frankfurt-133-Europe
+8.211.38.214:443Frankfurt-252-Europe
+47.76.227.128:2053Taipei-297-Asia Pacific
+141.145.199.188:443Frankfurt-169-Europe
+47.238.6.102:2083Taipei-332-Asia Pacific
+8.219.50.180:8443Frankfurt-380-Europe
+54.203.7.73:2087Kaohsiung City-38-Asia Pacific
+130.162.184.10:443Frankfurt-195-Europe
+18.179.65.137:8443Frankfurt-115-Europe
+47.236.125.62:2083Taipei-286-Asia Pacific
+13.36.63.124:2053Kaohsiung City-65-Asia Pacific
+47.76.159.146:8443Frankfurt-273-Europe
+51.17.192.69:443Frankfurt-117-Europe
+47.236.144.48:2087Taipei-289-Asia Pacific
+15.161.74.249:2087Taipei-80-Asia Pacific
+47.76.49.246:8443Frankfurt-263-Europe
+141.145.205.115:8443Frankfurt-138-Europe
+47.236.125.62:2053Taipei-276-Asia Pacific
+8.218.209.144:443Frankfurt-367-Europe
+47.243.173.187:8443Frankfurt-358-Europe
+54.253.222.7:2087Taipei-30-Asia Pacific
+34.218.233.177:443Frankfurt-66-Europe
+150.230.20.156:2053Taipei-207-Asia Pacific
+34.147.82.194:2053Taipei-226-Asia Pacific
+54.215.50.10:443Frankfurt-64-Europe
+34.175.133.251:2087Taipei-223-Asia Pacific
+176.116.21.75:2083Taipei-39-Asia Pacific
+47.237.82.15:2096Kaohsiung City-329-Asia Pacific
+47.242.252.237:8443Frankfurt-350-Europe
+129.153.39.213:8443Frankfurt-126-Europe
+141.147.96.127:443Frankfurt-160-Europe
+132.145.54.84:2053Taipei-173-Asia Pacific
+47.236.232.148:8443Frankfurt-302-Europe
+47.245.105.224:2083Taipei-309-Asia Pacific
+13.36.24.111:2096Taipei-42-Asia Pacific
+149.129.8.215:443Frankfurt-333-Europe
+47.237.125.8:2083Taipei-339-Asia Pacific
+130.162.226.138:8443Frankfurt-204-Europe
+54.216.89.4:2053Kaohsiung City-50-Asia Pacific
+129.146.137.89:2096Taipei-213-Asia Pacific
+47.237.95.13:2053Kaohsiung City-345-Asia Pacific
+13.233.115.251:2053Taipei-82-Asia Pacific
+141.148.243.188:443Frankfurt-205-Europe
+13.53.47.110:2087Taipei-95-Asia Pacific
+47.237.95.146:2087Taipei-298-Asia Pacific
+8.210.244.38:8443Frankfurt-353-Europe
+13.201.77.134:2083Kaohsiung City-94-Asia Pacific
+13.215.80.221:2096Kaohsiung City-119-Asia Pacific
+34.210.73.42:2096Kaohsiung City-35-Asia Pacific
+150.230.42.80:443Frankfurt-193-Europe
+8.218.211.17:8443Frankfurt-368-Europe
+8.218.173.78:8443Frankfurt-366-Europe
+13.36.63.124:2087Kaohsiung City-77-Asia Pacific
+47.76.33.40:2053Taipei-270-Asia Pacific
+16.63.55.49:2096Taipei-73-Asia Pacific
+141.147.24.29:443Frankfurt-189-Europe
+89.168.120.58:443Frankfurt-153-Europe
+176.116.21.141:2053Taipei-22-Asia Pacific
+52.60.241.195:2053Taipei-24-Asia Pacific
+146.56.45.187:443Frankfurt-174-Europe
+168.138.50.249:443Frankfurt-178-Europe
+47.237.92.26:2096Kaohsiung City-269-Asia Pacific
+47.237.94.140:2053Taipei-242-Asia Pacific
+52.42.127.37:2087Taipei-5-Asia Pacific
+152.70.164.233:443Frankfurt-152-Europe
+8.218.85.128:8443Frankfurt-373-Europe
+54.218.5.96:443Frankfurt-120-Europe
+47.236.10.100:2087Taipei-246-Asia Pacific
+192.18.134.28:443Frankfurt-164-Europe
+47.236.123.133:2096Taipei-327-Asia Pacific
+192.9.159.65:443Frankfurt-135-Europe
+13.36.63.124:2083Kaohsiung City-67-Asia Pacific
+141.147.68.252:443Frankfurt-176-Europe
+34.175.161.245:2053Kaohsiung City-235-Asia Pacific
+47.245.114.163:8443Frankfurt-243-Europe
+15.223.63.122:443Frankfurt-86-Europe
+13.53.47.110:2096Taipei-98-Asia Pacific
+47.238.43.79:2053Taipei-244-Asia Pacific
+34.127.87.123:443Frankfurt-238-Europe
+13.125.218.78:443Frankfurt-76-Europe
+35.167.225.145:8443Frankfurt-68-Europe
+34.147.101.117:2053Taipei-233-Asia Pacific
+8.210.146.108:8443Frankfurt-352-Europe
+13.53.81.150:2083Taipei-90-Asia Pacific
+47.237.11.182:8443Frankfurt-260-Europe
+158.180.56.162:443Frankfurt-137-Europe
+47.236.172.95:2053Taipei-294-Asia Pacific
+89.168.83.143:8443Frankfurt-166-Europe
+13.53.47.110:2053Taipei-79-Asia Pacific
+141.147.89.162:443Frankfurt-172-Europe
+8.222.184.198:8443Frankfurt-389-Europe
+152.67.249.123:443Frankfurt-141-Europe
+176.116.21.184:2087Taipei-18-Asia Pacific
+150.230.221.148:443Frankfurt-146-Europe
+16.63.55.49:2053Taipei-100-Asia Pacific
+193.123.233.143:2083Taipei-142-Asia Pacific
+34.175.7.231:2053Taipei-228-Asia Pacific
+15.156.203.151:8443Frankfurt-91-Europe
+34.175.95.58:2053Kaohsiung City-231-Asia Pacific
+176.116.21.157:2053Taipei-21-Asia Pacific
+52.39.201.69:2053Taipei-17-Asia Pacific
+176.116.21.141:2083Taipei-34-Asia Pacific
+47.236.85.11:8443Frankfurt-301-Europe
+99.80.238.19:2083Kaohsiung City-1-Asia Pacific
+50.18.219.153:443Frankfurt-46-Europe
+47.236.83.239:8443Frankfurt-311-Europe
+34.141.221.33:2087Kaohsiung City-227-Asia Pacific
+8.209.91.113:443Frankfurt-392-Europe
+13.51.55.184:2053Taipei-36-Asia Pacific
+18.189.139.61:443Frankfurt-84-Europe
+47.245.126.151:2087Kaohsiung City-308-Asia Pacific
+8.219.68.162:443Frankfurt-381-Europe
+192.9.137.193:8443Frankfurt-149-Europe
+47.236.150.13:8443Frankfurt-265-Europe
+13.233.115.251:443Frankfurt-63-Europe
+47.76.204.76:2087Taipei-282-Asia Pacific
+47.236.167.231:8443Frankfurt-346-Europe
+129.146.254.39:443Frankfurt-203-Europe
+8.222.249.190:8443Frankfurt-393-Europe
+141.144.232.159:443Frankfurt-161-Europe
+47.76.77.103:2087Kaohsiung City-338-Asia Pacific
+13.246.85.121:2087Taipei-23-Asia Pacific
+47.236.117.48:2096Taipei-287-Asia Pacific
+140.238.195.98:443Frankfurt-198-Europe
+43.206.192.211:443Frankfurt-49-Europe
+47.236.121.23:8443Frankfurt-315-Europe
+141.144.206.159:443Frankfurt-157-Europe
+8.219.84.214:443Frankfurt-385-Europe
+47.76.32.108:2083Taipei-318-Asia Pacific
+8.219.42.72:443Frankfurt-379-Europe
+47.76.146.1:2083Taipei-341-Asia Pacific
+129.159.130.38:443Frankfurt-185-Europe
+47.76.77.103:2083Kaohsiung City-254-Asia Pacific
