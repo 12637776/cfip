@@ -1,398 +1,252 @@
-13.53.172.167:443Frankfurt-97-Europe
-52.76.182.63:2083Taipei-43-Asia Pacific
-3.96.246.140:2053Taipei-41-Asia Pacific
-176.116.21.153:2087Taipei-11-Asia Pacific
-146.56.133.140:2096Kaohsiung City-128-Asia Pacific
-8.222.169.222:8443Frankfurt-387-Europe
-158.180.49.12:443Frankfurt-143-Europe
-47.236.253.41:2053Taipei-295-Asia Pacific
-141.11.78.134:8443Frankfurt-397-Europe
-141.148.237.170:443Frankfurt-212-Europe
-47.236.83.239:2087Taipei-324-Asia Pacific
-50.112.33.254:443Frankfurt-118-Europe
-47.236.87.246:8443Frankfurt-323-Europe
-52.42.127.37:2083Taipei-10-Asia Pacific
-192.18.159.129:443Frankfurt-221-Europe
-3.12.198.101:443Frankfurt-27-Europe
-34.147.101.117:2083Taipei-225-Asia Pacific
-50.112.166.63:443Frankfurt-45-Europe
-150.230.22.39:443Frankfurt-202-Europe
-141.147.93.177:443Frankfurt-167-Europe
-43.204.115.165:2083Taipei-123-Asia Pacific
-54.254.190.97:2096Kaohsiung City-92-Asia Pacific
-150.136.240.243:443Frankfurt-134-Europe
-13.235.79.32:8443Frankfurt-28-Europe
-141.144.202.252:443Frankfurt-210-Europe
-47.76.159.146:2087Kaohsiung City-285-Asia Pacific
-13.55.59.224:2053Taipei-124-Asia Pacific
-141.147.178.154:443Frankfurt-180-Europe
-34.175.161.245:2096Kaohsiung City-236-Asia Pacific
-176.116.21.93:2053Taipei-3-Asia Pacific
-152.69.228.83:443Frankfurt-150-Europe
-47.236.123.133:8443Frankfurt-310-Europe
-129.159.248.173:443Frankfurt-158-Europe
-47.236.121.23:2083Kaohsiung City-248-Asia Pacific
-176.116.21.91:2096Taipei-13-Asia Pacific
-8.219.51.211:8443Frankfurt-382-Europe
-47.236.117.48:2053Taipei-291-Asia Pacific
-141.148.242.213:443Frankfurt-216-Europe
-103.99.179.39:443Frankfurt-239-Europe
-47.238.5.0:2083Kaohsiung City-275-Asia Pacific
-47.76.227.128:2083Taipei-292-Asia Pacific
-13.233.28.21:2083Taipei-12-Asia Pacific
-129.159.241.172:443Frankfurt-201-Europe
-192.9.138.241:443Frankfurt-209-Europe
-47.236.125.62:2096Taipei-256-Asia Pacific
-8.218.148.106:443Frankfurt-364-Europe
-47.76.222.57:2087Kaohsiung City-340-Asia Pacific
-47.76.204.76:2053Taipei-268-Asia Pacific
-8.217.250.222:8443Frankfurt-362-Europe
-152.70.112.158:443Frankfurt-220-Europe
-8.210.42.171:8443Frankfurt-357-Europe
-150.230.34.116:443Frankfurt-194-Europe
-47.76.213.245:2083Taipei-272-Asia Pacific
-13.233.115.251:2087Taipei-107-Asia Pacific
-13.201.77.134:2087Kaohsiung City-20-Asia Pacific
-15.223.51.146:2053Taipei-78-Asia Pacific
-13.236.104.165:2053Kaohsiung City-85-Asia Pacific
-176.116.21.180:2083Taipei-48-Asia Pacific
-47.245.84.124:2096Kaohsiung City-274-Asia Pacific
-13.201.77.134:2053Kaohsiung City-44-Asia Pacific
-176.116.21.103:2083Taipei-59-Asia Pacific
-13.215.80.221:2083Kaohsiung City-109-Asia Pacific
-47.236.117.48:8443Frankfurt-312-Europe
-3.8.234.193:2096Taipei-108-Asia Pacific
-47.76.32.108:2053Taipei-300-Asia Pacific
-47.236.113.184:443Frankfurt-296-Europe
-8.217.132.184:443Frankfurt-361-Europe
-141.148.242.113:8443Frankfurt-156-Europe
-47.245.84.124:2083Kaohsiung City-330-Asia Pacific
-47.236.117.48:443Frankfurt-313-Europe
-47.236.102.102:8443Frankfurt-304-Europe
-8.220.223.223:443Frankfurt-386-Europe
-176.116.21.140:2083Taipei-8-Asia Pacific
-13.233.28.21:443Frankfurt-69-Europe
-141.147.190.128:443Frankfurt-192-Europe
-47.237.82.15:8443Frankfurt-240-Europe
-168.138.184.172:443Frankfurt-183-Europe
-152.70.248.96:443Frankfurt-136-Europe
-13.235.79.32:443Frankfurt-9-Europe
-52.42.127.37:2053Taipei-37-Asia Pacific
-47.76.159.146:2096Kaohsiung City-337-Asia Pacific
-8.211.21.14:443Frankfurt-247-Europe
-8.222.208.38:443Frankfurt-390-Europe
-47.242.155.183:8443Frankfurt-349-Europe
-47.237.121.38:2096Taipei-325-Asia Pacific
-150.230.149.208:443Frankfurt-132-Europe
-152.70.155.147:2087Kaohsiung City-129-Asia Pacific
-129.146.134.77:443Frankfurt-200-Europe
-54.245.58.106:2096Taipei-33-Asia Pacific
-13.53.108.225:443Frankfurt-70-Europe
-15.160.14.66:2087Taipei-72-Asia Pacific
-8.210.39.96:8443Frankfurt-356-Europe
-141.147.161.250:443Frankfurt-139-Europe
-193.123.252.170:2053Kaohsiung City-130-Asia Pacific
-52.65.99.165:2087Taipei-6-Asia Pacific
-47.236.118.216:2087Taipei-262-Asia Pacific
-47.90.141.204:443Frankfurt-331-Europe
-176.116.21.138:2083Taipei-62-Asia Pacific
-34.141.221.33:2053Kaohsiung City-230-Asia Pacific
-47.243.255.224:8443Frankfurt-377-Europe
-89.168.121.215:443Frankfurt-219-Europe
-47.243.173.187:443Frankfurt-355-Europe
-35.167.93.200:443Frankfurt-54-Europe
-8.219.237.250:8443Frankfurt-396-Europe
-8.219.114.201:443Frankfurt-372-Europe
-52.65.52.144:2053Kaohsiung City-71-Asia Pacific
-3.112.21.102:443Frankfurt-101-Europe
-34.175.133.251:2053Taipei-222-Asia Pacific
-47.236.253.41:2083Taipei-316-Asia Pacific
-141.147.10.201:443Frankfurt-196-Europe
-3.96.145.1:443Frankfurt-51-Europe
-47.236.10.182:2083Kaohsiung City-288-Asia Pacific
-176.116.21.103:2087Taipei-103-Asia Pacific
-47.57.13.107:443Frankfurt-394-Europe
-176.116.21.74:2087Taipei-111-Asia Pacific
-89.168.99.254:443Frankfurt-162-Europe
-8.219.77.222:8443Frankfurt-383-Europe
-8.217.193.25:8443Frankfurt-360-Europe
-34.175.244.157:2053Taipei-237-Asia Pacific
-141.144.229.61:443Frankfurt-159-Europe
-47.236.83.239:2096Taipei-251-Asia Pacific
-47.76.218.163:443Frankfurt-284-Europe
-47.245.84.124:8443Frankfurt-280-Europe
-47.236.144.48:2083Taipei-277-Asia Pacific
-34.141.248.249:2096Taipei-229-Asia Pacific
-13.36.162.145:2053Kaohsiung City-81-Asia Pacific
-129.146.138.227:443Frankfurt-165-Europe
-129.153.126.67:443Frankfurt-148-Europe
-47.236.170.54:8443Frankfurt-293-Europe
-150.230.7.216:443Frankfurt-144-Europe
-15.157.7.168:443Frankfurt-106-Europe
-192.9.180.162:443Frankfurt-155-Europe
-47.76.29.115:2087Taipei-335-Asia Pacific
-8.217.121.210:443Frankfurt-343-Europe
-13.235.79.32:2087Taipei-83-Asia Pacific
-52.39.201.69:2096Taipei-14-Asia Pacific
-47.236.172.95:2083Taipei-336-Asia Pacific
-52.76.182.63:2087Taipei-32-Asia Pacific
-8.219.98.13:8443Frankfurt-384-Europe
-176.116.21.75:2053Taipei-102-Asia Pacific
-8.219.4.122:8443Frankfurt-378-Europe
-176.116.21.109:2053Taipei-25-Asia Pacific
-35.179.75.202:443Frankfurt-58-Europe
-47.238.6.58:2083Kaohsiung City-250-Asia Pacific
-47.90.201.189:443Frankfurt-258-Europe
-47.236.10.182:8443Frankfurt-281-Europe
-47.236.104.11:2087Taipei-354-Asia Pacific
-47.236.171.205:2096Taipei-266-Asia Pacific
-35.167.225.145:2053Taipei-104-Asia Pacific
-141.147.103.53:443Frankfurt-197-Europe
-158.180.52.89:443Frankfurt-151-Europe
-34.210.73.42:2053Kaohsiung City-96-Asia Pacific
-47.236.102.102:2083Taipei-283-Asia Pacific
-47.236.110.238:443Frankfurt-317-Europe
-47.236.125.62:2087Taipei-245-Asia Pacific
-8.219.174.142:8443Frankfurt-376-Europe
-47.236.93.176:2087Taipei-279-Asia Pacific
-8.218.81.14:8443Frankfurt-371-Europe
-129.154.59.235:443Frankfurt-184-Europe
-47.236.93.176:8443Frankfurt-307-Europe
-47.254.174.66:443Frankfurt-264-Europe
-141.144.203.48:443Frankfurt-171-Europe
-13.201.221.231:443Frankfurt-26-Europe
-13.201.77.134:8443Frankfurt-87-Europe
-47.253.56.77:443Frankfurt-257-Europe
-168.138.66.11:443Frankfurt-170-Europe
-141.144.199.146:443Frankfurt-188-Europe
-54.203.7.73:8443Frankfurt-61-Europe
-3.96.246.140:2087Taipei-2-Asia Pacific
-8.219.201.8:443Frankfurt-375-Europe
-54.252.91.41:2053Taipei-16-Asia Pacific
-140.238.127.254:443Frankfurt-214-Europe
-47.89.244.253:443Frankfurt-259-Europe
-18.175.165.190:443Frankfurt-57-Europe
-47.76.37.57:8443Frankfurt-267-Europe
-141.147.116.91:443Frankfurt-191-Europe
-47.236.164.215:2053Taipei-347-Asia Pacific
-13.40.128.14:8443Frankfurt-29-Europe
-8.211.15.66:443Frankfurt-249-Europe
-47.236.172.71:8443Frankfurt-305-Europe
-141.144.253.109:443Frankfurt-217-Europe
-34.141.248.249:2053Taipei-234-Asia Pacific
-47.76.146.1:2087Taipei-342-Asia Pacific
-13.229.159.215:443Frankfurt-74-Europe
-129.213.165.166:443Frankfurt-199-Europe
-129.146.242.24:2053Taipei-125-Asia Pacific
-193.123.35.96:443Frankfurt-163-Europe
-47.243.107.148:443Frankfurt-344-Europe
-47.76.225.255:8443Frankfurt-290-Europe
-130.61.170.78:443Frankfurt-127-Europe
-176.116.21.185:2083Taipei-7-Asia Pacific
-176.116.21.103:2096Taipei-40-Asia Pacific
-13.235.79.32:2083Taipei-75-Asia Pacific
-47.236.158.158:8443Frankfurt-321-Europe
-141.147.77.7:443Frankfurt-190-Europe
-47.236.253.41:2087Taipei-306-Asia Pacific
-47.238.40.58:8443Frankfurt-241-Europe
-47.76.33.40:8443Frankfurt-334-Europe
-8.219.124.227:8443Frankfurt-374-Europe
-176.116.21.140:2096Taipei-122-Asia Pacific
-13.40.163.47:2096Taipei-89-Asia Pacific
-13.36.162.145:2083Kaohsiung City-105-Asia Pacific
-13.36.162.145:2087Kaohsiung City-56-Asia Pacific
-13.36.162.145:2096Kaohsiung City-31-Asia Pacific
-141.147.117.198:443Frankfurt-187-Europe
-176.116.21.75:2096Taipei-114-Asia Pacific
-158.101.169.13:2053Taipei-131-Asia Pacific
-13.211.0.227:2096Kaohsiung City-53-Asia Pacific
-47.238.6.102:2096Taipei-261-Asia Pacific
-47.236.166.131:2083Taipei-320-Asia Pacific
-47.236.10.182:2087Kaohsiung City-322-Asia Pacific
-13.201.77.134:443Frankfurt-112-Europe
-13.53.47.110:2083Taipei-88-Asia Pacific
-103.255.208.216:443Frankfurt-398-Europe
-18.188.145.159:443Frankfurt-110-Europe
-8.218.2.181:8443Frankfurt-369-Europe
-47.245.114.163:2087Kaohsiung City-303-Asia Pacific
-18.191.3.99:443Frankfurt-60-Europe
-150.230.62.27:443Frankfurt-175-Europe
-47.237.82.15:2053Kaohsiung City-255-Asia Pacific
-47.236.144.48:8443Frankfurt-326-Europe
-13.36.63.124:2096Kaohsiung City-55-Asia Pacific
-176.116.21.161:2053Taipei-93-Asia Pacific
-8.215.57.183:443Frankfurt-359-Europe
-8.217.251.62:8443Frankfurt-363-Europe
-47.236.125.62:8443Frankfurt-328-Europe
-3.8.234.193:443Frankfurt-99-Europe
-54.66.80.167:2053Taipei-4-Asia Pacific
-129.146.46.164:443Frankfurt-181-Europe
-52.76.182.63:2096Taipei-116-Asia Pacific
-152.70.119.237:443Frankfurt-140-Europe
-47.236.144.208:8443Frankfurt-271-Europe
-47.242.171.94:8443Frankfurt-348-Europe
-3.98.54.22:8443Frankfurt-121-Europe
-47.237.14.220:2083Taipei-253-Asia Pacific
-13.246.85.121:2096Taipei-47-Asia Pacific
-54.219.139.36:443Frankfurt-52-Europe
-89.168.72.255:443Frankfurt-179-Europe
-52.39.201.69:8443Frankfurt-19-Europe
-192.18.141.27:443Frankfurt-218-Europe
-89.168.82.46:443Frankfurt-182-Europe
-130.61.181.61:2053Kaohsiung City-208-Asia Pacific
-8.210.207.214:8443Frankfurt-351-Europe
-47.236.93.176:2096Taipei-299-Asia Pacific
-47.236.118.216:8443Frankfurt-314-Europe
-176.116.21.104:2087Taipei-113-Asia Pacific
-168.138.162.187:443Frankfurt-206-Europe
-8.218.48.92:8443Frankfurt-370-Europe
-34.141.221.33:2083Kaohsiung City-232-Asia Pacific
-89.168.99.77:443Frankfurt-145-Europe
-47.243.74.220:8443Frankfurt-395-Europe
-132.145.54.84:8443Frankfurt-186-Europe
-176.116.21.104:2053Taipei-15-Asia Pacific
-47.89.191.155:443Frankfurt-278-Europe
-8.222.237.131:8443Frankfurt-391-Europe
-150.230.23.98:443Frankfurt-177-Europe
-34.141.248.249:2087Taipei-224-Asia Pacific
-129.146.168.102:443Frankfurt-168-Europe
-89.168.122.44:443Frankfurt-147-Europe
-193.123.252.170:2083Kaohsiung City-215-Asia Pacific
-47.236.10.100:2053Taipei-319-Asia Pacific
-146.56.146.67:443Frankfurt-211-Europe
-141.144.193.68:443Frankfurt-154-Europe
-8.218.122.55:8443Frankfurt-365-Europe
-8.222.183.242:8443Frankfurt-388-Europe
-150.230.20.156:8443Frankfurt-133-Europe
-8.211.38.214:443Frankfurt-252-Europe
-47.76.227.128:2053Taipei-297-Asia Pacific
-141.145.199.188:443Frankfurt-169-Europe
-47.238.6.102:2083Taipei-332-Asia Pacific
-8.219.50.180:8443Frankfurt-380-Europe
-54.203.7.73:2087Kaohsiung City-38-Asia Pacific
-130.162.184.10:443Frankfurt-195-Europe
-18.179.65.137:8443Frankfurt-115-Europe
-47.236.125.62:2083Taipei-286-Asia Pacific
-13.36.63.124:2053Kaohsiung City-65-Asia Pacific
-47.76.159.146:8443Frankfurt-273-Europe
-51.17.192.69:443Frankfurt-117-Europe
-47.236.144.48:2087Taipei-289-Asia Pacific
-15.161.74.249:2087Taipei-80-Asia Pacific
-47.76.49.246:8443Frankfurt-263-Europe
-141.145.205.115:8443Frankfurt-138-Europe
-47.236.125.62:2053Taipei-276-Asia Pacific
-8.218.209.144:443Frankfurt-367-Europe
-47.243.173.187:8443Frankfurt-358-Europe
-54.253.222.7:2087Taipei-30-Asia Pacific
-34.218.233.177:443Frankfurt-66-Europe
-150.230.20.156:2053Taipei-207-Asia Pacific
-34.147.82.194:2053Taipei-226-Asia Pacific
-54.215.50.10:443Frankfurt-64-Europe
-34.175.133.251:2087Taipei-223-Asia Pacific
-176.116.21.75:2083Taipei-39-Asia Pacific
-47.237.82.15:2096Kaohsiung City-329-Asia Pacific
-47.242.252.237:8443Frankfurt-350-Europe
-129.153.39.213:8443Frankfurt-126-Europe
-141.147.96.127:443Frankfurt-160-Europe
-132.145.54.84:2053Taipei-173-Asia Pacific
-47.236.232.148:8443Frankfurt-302-Europe
-47.245.105.224:2083Taipei-309-Asia Pacific
-13.36.24.111:2096Taipei-42-Asia Pacific
-149.129.8.215:443Frankfurt-333-Europe
-47.237.125.8:2083Taipei-339-Asia Pacific
-130.162.226.138:8443Frankfurt-204-Europe
-54.216.89.4:2053Kaohsiung City-50-Asia Pacific
-129.146.137.89:2096Taipei-213-Asia Pacific
-47.237.95.13:2053Kaohsiung City-345-Asia Pacific
-13.233.115.251:2053Taipei-82-Asia Pacific
-141.148.243.188:443Frankfurt-205-Europe
-13.53.47.110:2087Taipei-95-Asia Pacific
-47.237.95.146:2087Taipei-298-Asia Pacific
-8.210.244.38:8443Frankfurt-353-Europe
-13.201.77.134:2083Kaohsiung City-94-Asia Pacific
-13.215.80.221:2096Kaohsiung City-119-Asia Pacific
-34.210.73.42:2096Kaohsiung City-35-Asia Pacific
-150.230.42.80:443Frankfurt-193-Europe
-8.218.211.17:8443Frankfurt-368-Europe
-8.218.173.78:8443Frankfurt-366-Europe
-13.36.63.124:2087Kaohsiung City-77-Asia Pacific
-47.76.33.40:2053Taipei-270-Asia Pacific
-16.63.55.49:2096Taipei-73-Asia Pacific
-141.147.24.29:443Frankfurt-189-Europe
-89.168.120.58:443Frankfurt-153-Europe
-176.116.21.141:2053Taipei-22-Asia Pacific
-52.60.241.195:2053Taipei-24-Asia Pacific
-146.56.45.187:443Frankfurt-174-Europe
-168.138.50.249:443Frankfurt-178-Europe
-47.237.92.26:2096Kaohsiung City-269-Asia Pacific
-47.237.94.140:2053Taipei-242-Asia Pacific
-52.42.127.37:2087Taipei-5-Asia Pacific
-152.70.164.233:443Frankfurt-152-Europe
-8.218.85.128:8443Frankfurt-373-Europe
-54.218.5.96:443Frankfurt-120-Europe
-47.236.10.100:2087Taipei-246-Asia Pacific
-192.18.134.28:443Frankfurt-164-Europe
-47.236.123.133:2096Taipei-327-Asia Pacific
-192.9.159.65:443Frankfurt-135-Europe
-13.36.63.124:2083Kaohsiung City-67-Asia Pacific
-141.147.68.252:443Frankfurt-176-Europe
-34.175.161.245:2053Kaohsiung City-235-Asia Pacific
-47.245.114.163:8443Frankfurt-243-Europe
-15.223.63.122:443Frankfurt-86-Europe
-13.53.47.110:2096Taipei-98-Asia Pacific
-47.238.43.79:2053Taipei-244-Asia Pacific
-34.127.87.123:443Frankfurt-238-Europe
-13.125.218.78:443Frankfurt-76-Europe
-35.167.225.145:8443Frankfurt-68-Europe
-34.147.101.117:2053Taipei-233-Asia Pacific
-8.210.146.108:8443Frankfurt-352-Europe
-13.53.81.150:2083Taipei-90-Asia Pacific
-47.237.11.182:8443Frankfurt-260-Europe
-158.180.56.162:443Frankfurt-137-Europe
-47.236.172.95:2053Taipei-294-Asia Pacific
-89.168.83.143:8443Frankfurt-166-Europe
-13.53.47.110:2053Taipei-79-Asia Pacific
-141.147.89.162:443Frankfurt-172-Europe
-8.222.184.198:8443Frankfurt-389-Europe
-152.67.249.123:443Frankfurt-141-Europe
-176.116.21.184:2087Taipei-18-Asia Pacific
-150.230.221.148:443Frankfurt-146-Europe
-16.63.55.49:2053Taipei-100-Asia Pacific
-193.123.233.143:2083Taipei-142-Asia Pacific
-34.175.7.231:2053Taipei-228-Asia Pacific
-15.156.203.151:8443Frankfurt-91-Europe
-34.175.95.58:2053Kaohsiung City-231-Asia Pacific
-176.116.21.157:2053Taipei-21-Asia Pacific
-52.39.201.69:2053Taipei-17-Asia Pacific
-176.116.21.141:2083Taipei-34-Asia Pacific
-47.236.85.11:8443Frankfurt-301-Europe
-99.80.238.19:2083Kaohsiung City-1-Asia Pacific
-50.18.219.153:443Frankfurt-46-Europe
-47.236.83.239:8443Frankfurt-311-Europe
-34.141.221.33:2087Kaohsiung City-227-Asia Pacific
-8.209.91.113:443Frankfurt-392-Europe
-13.51.55.184:2053Taipei-36-Asia Pacific
-18.189.139.61:443Frankfurt-84-Europe
-47.245.126.151:2087Kaohsiung City-308-Asia Pacific
-8.219.68.162:443Frankfurt-381-Europe
-192.9.137.193:8443Frankfurt-149-Europe
-47.236.150.13:8443Frankfurt-265-Europe
-13.233.115.251:443Frankfurt-63-Europe
-47.76.204.76:2087Taipei-282-Asia Pacific
-47.236.167.231:8443Frankfurt-346-Europe
-129.146.254.39:443Frankfurt-203-Europe
-8.222.249.190:8443Frankfurt-393-Europe
-141.144.232.159:443Frankfurt-161-Europe
-47.76.77.103:2087Kaohsiung City-338-Asia Pacific
-13.246.85.121:2087Taipei-23-Asia Pacific
-47.236.117.48:2096Taipei-287-Asia Pacific
-140.238.195.98:443Frankfurt-198-Europe
-43.206.192.211:443Frankfurt-49-Europe
-47.236.121.23:8443Frankfurt-315-Europe
-141.144.206.159:443Frankfurt-157-Europe
-8.219.84.214:443Frankfurt-385-Europe
-47.76.32.108:2083Taipei-318-Asia Pacific
-8.219.42.72:443Frankfurt-379-Europe
-47.76.146.1:2083Taipei-341-Asia Pacific
-129.159.130.38:443Frankfurt-185-Europe
-47.76.77.103:2083Kaohsiung City-254-Asia Pacific
+13.125.218.78:443Frankfurt-8-Europe
+141.144.232.159:443Frankfurt-67-Europe
+47.245.33.33:443Frankfurt-146-Europe
+8.219.111.175:8443Frankfurt-224-Europe
+129.146.139.227:443Frankfurt-49-Europe
+47.236.170.225:2082Taipei-152-Asia Pacific
+82.153.65.177:443Frankfurt-251-Europe
+168.138.50.249:443Frankfurt-54-Europe
+50.112.33.254:443Frankfurt-11-Europe
+141.147.10.201:443Frankfurt-72-Europe
+140.238.50.112:443Frankfurt-59-Europe
+152.67.148.82:443Frankfurt-82-Europe
+13.51.246.195:8443Frankfurt-10-Europe
+47.237.10.1:8443Frankfurt-165-Europe
+141.147.190.128:443Frankfurt-84-Europe
+8.222.237.131:8443Frankfurt-246-Europe
+141.145.205.115:8443Frankfurt-61-Europe
+213.35.105.46:443Frankfurt-103-Europe
+141.144.229.61:443Frankfurt-121-Europe
+47.243.27.217:8443Frankfurt-196-Europe
+8.219.222.98:8443Frankfurt-232-Europe
+129.154.46.115:443Frankfurt-74-Europe
+8.220.195.140:443Frankfurt-238-Europe
+168.138.194.74:443Frankfurt-34-Europe
+129.153.39.213:8443Frankfurt-99-Europe
+141.147.65.53:443Frankfurt-51-Europe
+47.237.100.206:2087Taipei-180-Asia Pacific
+47.239.10.224:443Frankfurt-134-Europe
+213.218.254.248:8443Frankfurt-252-Europe
+47.242.174.27:8443Frankfurt-247-Europe
+89.168.98.135:443Frankfurt-90-Europe
+47.242.176.237:8443Frankfurt-205-Europe
+154.197.92.72:9888Taipei-126-Asia Pacific
+8.219.199.220:8443Frankfurt-231-Europe
+8.218.173.78:8443Frankfurt-213-Europe
+8.218.209.144:443Frankfurt-216-Europe
+89.168.124.103:443Frankfurt-75-Europe
+152.67.134.204:443Frankfurt-117-Europe
+103.99.179.39:443Frankfurt-125-Europe
+8.219.4.122:8443Frankfurt-249-Europe
+47.236.237.90:8443Frankfurt-149-Europe
+8.217.250.222:8443Frankfurt-209-Europe
+47.236.118.216:8443Frankfurt-143-Europe
+193.122.1.0:8443Frankfurt-44-Europe
+141.144.206.159:443Frankfurt-89-Europe
+152.67.130.177:443Frankfurt-91-Europe
+141.147.34.131:443Frankfurt-101-Europe
+18.171.218.72:443Frankfurt-20-Europe
+15.223.63.122:443Frankfurt-6-Europe
+140.238.195.98:443Frankfurt-93-Europe
+193.122.11.243:443Frankfurt-102-Europe
+91.217.139.121:8443Frankfurt-123-Europe
+47.236.110.238:443Frankfurt-130-Europe
+18.171.218.72:8443Frankfurt-22-Europe
+8.211.21.14:443Frankfurt-140-Europe
+47.236.158.158:8443Frankfurt-183-Europe
+47.237.84.173:8443Frankfurt-158-Europe
+47.236.170.225:2096Taipei-161-Asia Pacific
+47.76.214.139:8443Frankfurt-160-Europe
+8.219.210.64:443Frankfurt-229-Europe
+8.219.111.147:8443Frankfurt-227-Europe
+47.76.32.108:8443Frankfurt-159-Europe
+13.36.24.111:2096Taipei-24-Asia Pacific
+8.219.198.34:443Frankfurt-226-Europe
+13.233.115.251:443Frankfurt-7-Europe
+141.144.253.109:443Frankfurt-33-Europe
+141.145.199.188:443Frankfurt-55-Europe
+47.236.10.100:8443Frankfurt-151-Europe
+158.180.56.162:443Frankfurt-60-Europe
+158.180.49.12:443Frankfurt-65-Europe
+13.53.136.165:443Frankfurt-12-Europe
+150.230.62.27:443Frankfurt-64-Europe
+35.182.227.99:443Frankfurt-18-Europe
+168.138.162.187:443Frankfurt-50-Europe
+150.230.34.116:443Frankfurt-47-Europe
+52.11.221.197:8443Frankfurt-4-Europe
+47.76.222.57:2083Taipei-186-Asia Pacific
+141.147.92.170:443Frankfurt-94-Europe
+89.168.82.46:443Frankfurt-98-Europe
+13.229.159.215:443Frankfurt-16-Europe
+47.242.59.216:8443Frankfurt-202-Europe
+8.219.174.213:8443Frankfurt-228-Europe
+158.180.61.219:443Frankfurt-80-Europe
+8.209.82.201:443Frankfurt-187-Europe
+8.222.222.64:8443Frankfurt-245-Europe
+47.236.104.11:8443Frankfurt-177-Europe
+13.51.55.31:443Frankfurt-21-Europe
+50.112.166.63:443Frankfurt-15-Europe
+8.211.38.214:443Frankfurt-148-Europe
+47.236.181.185:8443Frankfurt-172-Europe
+141.144.203.48:443Frankfurt-69-Europe
+47.237.95.156:8443Frankfurt-154-Europe
+8.211.55.176:443Frankfurt-129-Europe
+8.218.174.118:8443Frankfurt-214-Europe
+150.136.240.243:443Frankfurt-29-Europe
+8.219.174.213:443Frankfurt-225-Europe
+129.159.47.255:443Frankfurt-78-Europe
+8.218.1.163:8443Frankfurt-211-Europe
+44.227.22.10:443Frankfurt-9-Europe
+35.183.210.182:443Frankfurt-14-Europe
+8.219.98.13:8443Frankfurt-235-Europe
+47.236.169.164:8443Frankfurt-153-Europe
+8.219.198.34:8443Frankfurt-230-Europe
+103.255.208.216:443Frankfurt-250-Europe
+8.218.48.92:8443Frankfurt-219-Europe
+13.237.94.188:2052Taipei-5-Asia Pacific
+138.2.122.191:443Frankfurt-77-Europe
+152.67.233.64:443Frankfurt-119-Europe
+47.236.75.113:8443Frankfurt-131-Europe
+47.236.170.225:2083Taipei-139-Asia Pacific
+8.222.184.198:8443Frankfurt-243-Europe
+141.147.178.154:443Frankfurt-39-Europe
+168.138.201.0:443Frankfurt-108-Europe
+13.40.128.14:8443Frankfurt-3-Europe
+150.230.7.216:443Frankfurt-86-Europe
+131.186.28.236:443Frankfurt-112-Europe
+47.76.222.57:8443Frankfurt-135-Europe
+141.147.85.167:8443Frankfurt-45-Europe
+132.145.15.204:443Frankfurt-41-Europe
+192.9.246.112:8443Frankfurt-114-Europe
+150.230.221.148:443Frankfurt-66-Europe
+141.144.202.252:443Frankfurt-42-Europe
+47.243.173.187:443Frankfurt-199-Europe
+132.145.127.203:2053Tokyo-120-Asia Pacific
+8.217.164.10:8443Frankfurt-208-Europe
+192.9.180.162:443Frankfurt-79-Europe
+8.218.11.90:8443Frankfurt-210-Europe
+132.145.54.84:8443Frankfurt-63-Europe
+193.122.107.147:443Frankfurt-100-Europe
+8.210.203.7:8443Frankfurt-194-Europe
+8.218.155.238:8443Frankfurt-212-Europe
+13.233.5.49:443Frankfurt-23-Europe
+146.56.191.252:443Frankfurt-58-Europe
+130.162.184.10:443Frankfurt-40-Europe
+8.211.15.66:443Frankfurt-133-Europe
+146.56.146.67:443Frankfurt-57-Europe
+8.222.164.209:8443Frankfurt-242-Europe
+8.210.100.23:8443Frankfurt-191-Europe
+164.152.17.14:443Frankfurt-110-Europe
+154.197.92.93:9888Taipei-122-Asia Pacific
+8.209.91.113:443Frankfurt-184-Europe
+141.147.24.29:443Frankfurt-56-Europe
+141.147.54.183:443Frankfurt-106-Europe
+204.110.223.229:443Frankfurt-2-Europe
+47.236.189.92:80Taipei-173-Asia Pacific
+47.236.165.25:8443Frankfurt-142-Europe
+47.91.95.185:443Frankfurt-155-Europe
+8.211.45.81:443Frankfurt-138-Europe
+47.238.6.58:80Taipei-156-Asia Pacific
+47.76.146.1:2082Taipei-166-Asia Pacific
+8.212.153.218:443Frankfurt-206-Europe
+13.201.77.134:443Frankfurt-28-Europe
+150.230.124.255:443Frankfurt-71-Europe
+141.147.66.135:443Frankfurt-30-Europe
+192.9.137.193:8443Frankfurt-46-Europe
+89.168.68.57:8443Frankfurt-95-Europe
+89.168.98.34:443Frankfurt-43-Europe
+8.209.75.220:443Frankfurt-145-Europe
+47.241.209.61:443Frankfurt-157-Europe
+47.238.6.58:8443Frankfurt-163-Europe
+8.215.57.183:443Frankfurt-207-Europe
+47.238.131.39:2082Taipei-168-Asia Pacific
+8.222.187.4:8443Frankfurt-244-Europe
+13.53.108.225:443Frankfurt-19-Europe
+8.218.207.169:8443Frankfurt-215-Europe
+47.245.84.124:8443Frankfurt-169-Europe
+132.226.215.14:443Frankfurt-92-Europe
+47.243.255.224:8443Frankfurt-189-Europe
+129.146.133.33:443Frankfurt-105-Europe
+130.162.184.173:443Frankfurt-76-Europe
+130.162.160.166:443Frankfurt-97-Europe
+8.209.79.120:443Frankfurt-162-Europe
+168.138.46.67:443Frankfurt-96-Europe
+8.210.174.156:8443Frankfurt-192-Europe
+47.243.74.220:8443Frankfurt-195-Europe
+47.237.95.146:8443Frankfurt-141-Europe
+44.226.147.29:443Frankfurt-17-Europe
+47.237.95.156:2053Taipei-150-Asia Pacific
+47.236.130.95:8443Frankfurt-182-Europe
+192.9.159.65:443Frankfurt-85-Europe
+13.201.221.231:443Frankfurt-13-Europe
+47.243.86.79:8443Frankfurt-190-Europe
+149.129.8.215:443Frankfurt-171-Europe
+8.219.77.222:8443Frankfurt-236-Europe
+47.237.100.206:8443Frankfurt-136-Europe
+13.233.28.21:443Frankfurt-25-Europe
+47.236.180.51:80Taipei-174-Asia Pacific
+146.56.161.229:443Frankfurt-62-Europe
+89.168.43.31:8443Frankfurt-37-Europe
+47.236.117.48:8443Frankfurt-176-Europe
+47.88.24.145:443Frankfurt-178-Europe
+47.237.83.20:8443Frankfurt-181-Europe
+152.67.129.93:443Frankfurt-115-Europe
+8.219.126.240:8443Frankfurt-222-Europe
+158.180.52.89:443Frankfurt-70-Europe
+141.147.68.252:443Frankfurt-107-Europe
+152.67.198.104:443Frankfurt-53-Europe
+47.237.95.156:2083Taipei-188-Asia Pacific
+8.219.99.169:8443Frankfurt-240-Europe
+89.168.83.143:8443Frankfurt-73-Europe
+163.53.246.105:25953Taipei-124-Asia Pacific
+18.169.133.105:8443Frankfurt-27-Europe
+47.76.33.40:8443Frankfurt-127-Europe
+8.218.3.12:8443Frankfurt-218-Europe
+192.18.159.129:443Frankfurt-104-Europe
+8.211.15.43:443Frankfurt-164-Europe
+8.219.78.1:8443Frankfurt-237-Europe
+141.147.161.250:443Frankfurt-38-Europe
+89.168.99.254:443Frankfurt-68-Europe
+8.218.85.128:8443Frankfurt-220-Europe
+168.138.66.11:443Frankfurt-32-Europe
+89.168.122.54:443Frankfurt-118-Europe
+8.219.111.147:443Frankfurt-221-Europe
+47.237.100.206:2083Taipei-175-Asia Pacific
+44.242.230.224:443Frankfurt-1-Europe
+192.9.250.241:443Frankfurt-31-Europe
+150.230.20.156:8443Frankfurt-48-Europe
+47.242.42.153:8443Frankfurt-234-Europe
+138.2.163.220:443Frankfurt-81-Europe
+47.237.95.156:2087Taipei-128-Asia Pacific
+130.162.140.215:443Frankfurt-109-Europe
+13.235.79.32:443Frankfurt-26-Europe
+47.236.164.215:8443Frankfurt-137-Europe
+47.90.201.189:443Frankfurt-203-Europe
+141.147.47.32:8443Frankfurt-113-Europe
+8.210.192.93:8443Frankfurt-193-Europe
+129.151.148.35:443Frankfurt-35-Europe
+47.236.113.184:443Frankfurt-170-Europe
+47.242.68.32:443Frankfurt-201-Europe
+150.230.42.80:443Frankfurt-83-Europe
+8.220.223.223:443Frankfurt-241-Europe
+47.242.54.157:8443Frankfurt-204-Europe
+8.210.39.96:8443Frankfurt-197-Europe
+8.218.211.17:8443Frankfurt-217-Europe
+141.147.116.91:443Frankfurt-36-Europe
+150.230.149.208:443Frankfurt-116-Europe
+8.219.174.142:8443Frankfurt-223-Europe
+8.220.202.59:443Frankfurt-239-Europe
+8.210.42.171:8443Frankfurt-198-Europe
+47.245.126.151:80Taipei-147-Asia Pacific
+47.76.146.1:8443Frankfurt-167-Europe
+47.243.173.187:8443Frankfurt-200-Europe
+47.242.107.109:8443Frankfurt-248-Europe
+8.211.20.2:443Frankfurt-179-Europe
+159.13.46.42:443Frankfurt-88-Europe
+192.9.138.241:443Frankfurt-52-Europe
+141.147.117.198:443Frankfurt-111-Europe
+8.219.67.133:8443Frankfurt-233-Europe
+47.236.125.62:8443Frankfurt-185-Europe
+47.236.150.13:8443Frankfurt-132-Europe
+130.61.170.78:443Frankfurt-87-Europe
+47.236.180.51:8443Frankfurt-144-Europe
